@@ -1,0 +1,55 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "How many times the WHILE WEND loop repeats if the value of N is 1234? Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Name the user defined function in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What do you mean by B2C model of e-commerce? f) What is the function of INT() in QBasic programming?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by digital signature? Why is it important?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a C program to input a character and check whether it is vowel or consonant. [4] OR Write a program in C language to input a number and check whether it is a palindrome or not.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ]
+}

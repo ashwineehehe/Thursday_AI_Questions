@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC that asks radius and height of a cylinder. Create a User Defined Function to calculate total surface area and a Sub Program to calculate the volume of a cylinder. [4]​ [Hint: TSA=2πr (r+h) and Volume = πr²h]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Which type of query do you use to calculate the total marks of students from table in MS Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    }
+  ]
+}

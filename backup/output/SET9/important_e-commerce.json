@@ -1,0 +1,15 @@
+{
+  "chapter": "E-Commerce",
+  "top_questions": [
+    {
+      "text": "Why is e-commerce more popular than traditional commerce nowadays? Give any two reasons.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ]
+}

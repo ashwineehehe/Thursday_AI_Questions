@@ -1,0 +1,35 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "Define cyber law and cyber crime.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is antivirus software? Name any two popular antivirus software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A program that can disinfect a file from virus​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.1
+    }
+  ]
+}

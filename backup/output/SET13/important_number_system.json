@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(10010)₂ × (1110)₂ - (10101)₂ = (?)₂",
+      "format": "CONVERSION",
+      "section_heading": "Convert/calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in QBasic that asks any number and display its square and square root. Create a user-defined function to calculate square root and a sub program to display the square of a number.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

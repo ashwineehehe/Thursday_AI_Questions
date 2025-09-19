@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "List out the mathematical (library) function used in the above program.",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the function of the following statements: FILES, KILL",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.4
+    }
+  ]
+}

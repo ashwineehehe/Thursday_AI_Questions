@@ -1,0 +1,35 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Convert or Calculate as per the instructions. [4×1=4] i) (11101010101)₂= (?)₁₆​ ii) (555)₈=(?)₁₀​ iii) (11110)₂ + (1100)₂-(1000)₂​ iv) (10110)₂÷(101)₂",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a C Program that takes principal, rate and time as input and calculate the simple interest. [4] OR Write a program in C-Language to display first 10 natural numbers.",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in Q-BASIC that asks first term, common Difference and No. of terms of a arithmetic series and calculate its general term and sum. Create a Function procedure to calculate general term and sub procedure to calculate sum. [4]​ [Hint:- tn = a+[(n-1)×d] and Sn = n/2 [2a+(n-1)×d]]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ]
+}

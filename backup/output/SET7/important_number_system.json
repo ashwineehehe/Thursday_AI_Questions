@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(1001 + 110)₂ - (1000)₂​",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle to calculate its area and circumference. Create a user defined function to calculate area and sub program to calculate circumference. [4]​ [Hint: A= πr², C= 2πr]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    }
+  ]
+}

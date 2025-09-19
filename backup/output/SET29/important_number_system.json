@@ -1,0 +1,45 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Convert as instructed. [2×1 = 2]​ i. (101)₁₀ into Binary​ ii. (75)₈ into Decimal",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Perform the binary calculation. [2×1 = 2]​ i. (10101)₂ – (1011)₂​ ii. (111)₂ × (11)₂",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to declare SUB module to calculate and print the volume of a box. [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program using FUNCTION module to calculate and print the volume of a cylinder.​ Formula: V = πr²h [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    }
+  ]
+}

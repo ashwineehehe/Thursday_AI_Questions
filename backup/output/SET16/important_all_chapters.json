@@ -1,0 +1,174 @@
+{
+  "Networking": [
+    {
+      "text": "Mention any two services provided by Internet.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is network topology? List any two types of network topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "What is the maximum length of field name in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which is the logical data type of MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "What happens if you remove “UCASES” from the above program?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define virtual reality. Write any two areas where virtual reality is used.​ f) What is DBMS? Write four objects of MS-Access.​ g) What are validation text and validation rule?​ h) What is form? Write any two advantages of it.​ i) What is foreign key? Why is primary key necessary in record?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is modular programming?​ f) Mention any two basic data types of C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is password? Write any two importance of password protection.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define cyber law and cyber crime.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is online payment? Write any two online payment in Nepal.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Computer program that protects computer from computer virus.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.1
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Write the use of statement “INPUT #1, N$, A$, S” in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program in C language to input a number and then check whether the number is positive, negative or zero number. (4) OR Write a program in C language to display the series with their sum 1, 2, 3, 4, … up to 10th terms. (4) OR Write a program in C language to display the series with their sum 1, 2, 3, 4, ... up to 10th terms. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program to create a sequential data file named “Employee.dat” to store Name, Post, Address and Salary for the number of employees. The program should terminate on user’s choice. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    }
+  ],
+  "Number System": [
+    {
+      "text": "(1001 + 110)₂ – (1000)₂​",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program to calculate Area of circle using Function procedure and use SUB procedure to calculate its circumference in Q-Basic. [Hint: A=πr², C=2πr] (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    }
+  ]
+}

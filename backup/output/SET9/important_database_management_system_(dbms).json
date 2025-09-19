@@ -1,0 +1,45 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "What is e-governance? Provide any two examples of e-governance services that exist in Nepal. f) What is database? Name any two data types used in MS-Access. g) Write the difference between field and record. (Any two) h) Define a report. Why is it necessary to create a report in DBMS? i) What is query? Mention the different types of Action query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the maximum character you can use for creating a field name in MS-Access?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two methods of creating table in MS-Access.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table: (2) DECLARE SUB Display (T$) T$=\"COMPUTER\" CALL Display (T$) END SUB Display (T$) FOR C = 1 TO LEN (T$) STEP 2 D$=MID$ (T$,C,1) PRINT D$; NEXT C END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ]
+}

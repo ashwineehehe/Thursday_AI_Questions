@@ -1,0 +1,46 @@
+
+
+
+
+#!/usr/bin/env python3
+import json
+from pathlib import Path
+import faiss, numpy as np, ollama
+
+# ============== CONFIG ==============
+OUTPUT_DIR = Path("output/SET1")      # must contain questions.jsonl
+INDEX_DIR  = Path("vector_store/SET1")
+EMB_MODEL  = "nomic-embed-text"
+# ====================================
+
+def embed(text: str):
+    e = ollama.embeddings(model=EMB_MODEL, prompt=text)["embedding"]
+    return np.array(e,dtype="float32")
+
+def main():
+    qfile = OUTPUT_DIR/"questions.jsonl"
+    if not qfile.exists():
+        raise SystemExit(f"No questions.jsonl in {OUTPUT_DIR}")
+    rows=[json.loads(l) for l in qfile.open("r",encoding="utf-8")]
+
+    vecs=[]; metas=[]
+    for r in rows:
+        if not r["text"]: continue
+        vecs.append(embed(r["text"]))
+        metas.append(r)
+    if not vecs: raise SystemExit("No vectors.")
+
+    mat=np.vstack(vecs)
+    faiss.normalize_L2(mat)
+    index=faiss.IndexFlatIP(mat.shape[1])
+    index.add(mat)
+
+    INDEX_DIR.mkdir(parents=True,exist_ok=True)
+    faiss.write_index(index,str(INDEX_DIR/"index.faiss"))
+    with (INDEX_DIR/"meta.jsonl").open("w",encoding="utf-8") as f:
+        for m in metas: f.write(json.dumps(m,ensure_ascii=False)+"\n")
+
+    print(f"[ok] index built with {len(metas)} vectors at {INDEX_DIR}")
+
+if __name__=="__main__":
+    main()

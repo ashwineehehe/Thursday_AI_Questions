@@ -1,0 +1,15 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language that asks for an integer value and checks whether it is divisible by 7 or not. [4] OR Write a program in C language to display the series with their sum 1, 4, 9, 16.... up to 10th term.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.5
+    }
+  ]
+}

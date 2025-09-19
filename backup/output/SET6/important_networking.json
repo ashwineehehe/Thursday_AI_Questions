@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "List any two services of Internet.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The network security systems that monitor and control the traffic flow (data packets).",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    }
+  ]
+}

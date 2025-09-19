@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(1101)₂ × (110)₂ - (1011)₂ = (?)₂",
+      "format": "CONVERSION",
+      "section_heading": "Convert/calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.5
+    }
+  ]
+}

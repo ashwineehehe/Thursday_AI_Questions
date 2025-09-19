@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "What is Network Topology? Write types of Computer Network.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A Company which provides service of internet.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.1
+    }
+  ]
+}

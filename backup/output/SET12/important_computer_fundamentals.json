@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "How many parameter(s) is used in the above program? List them.​",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Write the use of MOD in above program. Group \"C\" [16 Marks]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Give name of any two RDBMS software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List any two threats of using social media.​ f) Define Form and Report.​ g) Write down the advantages of database management system over traditional data storage system.​ h) What is the difference of 'Allow Zero length' and 'Required' field properties of MS-Access?​ i) Define Query. List out its types.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Networking devices used to regenerate the signal and transfer further.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What are the two advantages of ring topology over bus topology?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by Digital Citizenship? List its two advantages.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ]
+}

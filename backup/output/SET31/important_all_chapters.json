@@ -1,0 +1,226 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List all string variables from the program.​",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What type of operator is '+' in above program? Group C [16 Marks]",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file 'STUDENT.DAT' contains the information regarding name, class, section and gender of 50 students. Write a program to add five more records in the same file. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "A program that disinfects other programs.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Name two bounded transmission media.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is e-governance? List the types of e-governance.​ f) What is database? Write any two advantages of electronic data base.​ g) What is field type? List any four field type supported by MS-Access.​ h) Write two differences between filtering and querying.​ i) What is report? Why is it prepared? What are the different parts of a report?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is ring topology? Mention its two advantages.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "ISDN Group B [24 Marks]",
+      "format": "FULL_FORM",
+      "section_heading": "full forms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Give an example of cyber bullying.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Mention any four software security measures.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is cyber law? What is the cyber law of Nepal called?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "What is file mode?​ f) Write any two numeric data type of C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What type table do you create in MS Access to modify table structure?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Debug the following program. [3] REM to print 5 records from data file HOSPITAL.TXT​ OPEN \"HOSPITAL.TXT\" FOR APPEND AS #5​ FOR REP = 1 TO 5​ INPUT #3, PN$,AD$,G$,A​ DISPLAY PN$,AD$,A, G$​ NEXT REP​ FINISH #5​ END",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Read the following program and answer the given questions. [2] DECLARE SUB AA (N$)​ CLS​ W$= \"CYBERCRIME\"​ CALL AA(W$)​ END SUB AA (N$)​ R= LEN(N$)\\2​ E$=RIGHT$(N$,R) + LEFT$(N$,R)​ PRINT E$​ END SUB Questions:",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program using C language to input an integer then check whether the integer is negative or positive or zero. [2]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program using C language to print the first 25 odd numbers between 50 to 100. [2]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write the technical term for the following statements. [2×1=2]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "A program in client computer to access internet​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "What is m-commerce? Write its two limitation.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC to define a function procedure to display the cube root of an integer supplied by the user. Use sub procedure module to calculate and print the difference between cube root and square root the same integer. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.5
+    }
+  ]
+}

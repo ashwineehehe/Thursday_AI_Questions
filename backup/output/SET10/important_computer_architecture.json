@@ -1,0 +1,15 @@
+{
+  "chapter": "Computer Architecture",
+  "top_questions": [
+    {
+      "text": "Give two-two difference between peer-to-peer and client/server network architecture.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    }
+  ]
+}

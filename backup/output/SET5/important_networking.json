@@ -1,0 +1,15 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "The network security systems that monitor and controls the traffic flow between the Internet and private network.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.1
+    }
+  ]
+}

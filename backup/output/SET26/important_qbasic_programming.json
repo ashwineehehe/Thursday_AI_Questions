@@ -1,0 +1,65 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "List the library function used in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the name of the function used in the above program. Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file \"Employee.dat\" has some records with fields serial number, name, address, post and salary for the number of employees. Write a program to display all the records of those employees whose salary is more than Rs. 50000.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the function of MOD in QBasic? f) Write the name of unary operators used in C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in QBasic to print circumference of a circle using SUB and volume of a cylinder using FUNCTION.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to read any three integer numbers from the keyboard and find the smallest number using C language. [4] OR Write a program to print first 10 natural numbers using C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    }
+  ]
+}

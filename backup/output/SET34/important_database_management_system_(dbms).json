@@ -1,0 +1,45 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Define e-commerce with its types. f) What is table? Which view is used to modify a table? g) What is Query? List any two importance of it. h) Define Validation rule and Validation text. i) Give any two differences between Form and Report.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in Q-Basic to create a sequential data file named \"record.txt\" and store Roll number, Name, Address and Class of few students.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down any two objects of MS-Access.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table: DECLARE SUB Result (A$) A$=\"Development\" CALL Result (A$) END SUB Result (A$) FOR C=1 TO LEN(A$) STEP 2 X$=MID$(A$,C,1) PRINT X$ NEXT C END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    }
+  ]
+}

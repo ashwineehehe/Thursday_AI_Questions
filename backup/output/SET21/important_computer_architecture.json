@@ -1,0 +1,15 @@
+{
+  "chapter": "Computer Architecture",
+  "top_questions": [
+    {
+      "text": "Write down the missing statements in the main module to execute the program. Group C (16 Marks)",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.55
+    }
+  ]
+}

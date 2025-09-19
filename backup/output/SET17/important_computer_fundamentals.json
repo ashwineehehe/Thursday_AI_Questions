@@ -1,0 +1,85 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List any two library functions used in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the use of variable 'C' in line 3 [i.e. C = Count (R$)] given in the above program. Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define Artificial Intelligence with examples.​ f) List any four features of MS-Access.​ g) What is Primary Key? Give any two benefits of it.​ h) Give the differences between the Select Query and Action Query.​ i) Identify a record and field from the following table structure: Symbol No. Name Marks 00100202S Aarambha Shrestha 91 00100203T Suhisha Rayamajhi 99",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is modular programming?​ f) Write any two features of C- language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the business done through the mobile?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any four commandments of computer ethics.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A secret group of characters used to protect computer system from unauthorized users.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "An artificial environment created by a computer system that appears real.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.1
+    }
+  ]
+}

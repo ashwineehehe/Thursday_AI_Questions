@@ -1,0 +1,188 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List the real parameter and formal parameter in the program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the names of two built in functions used in the program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file called \"rec.dat\" has several records having fields name, roll and class. Write a program to copy all the records of class 10 into a newly created file \"new.dat\". [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "How can public get benefited from the e-governance services?​ f) What is MS-Access? Give any two examples of DBMS.​ g) What is foreign key? Why is it important to specify primary key in database?​ h) What is filtering. List any two advantages of sorting.​ i) Differentiate between Select query and Action query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is a digital footprint? Share your thoughts about cyberbullying.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the vision of IT Policy of Nepal 2072?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which device is used to connect PC with telephone line?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "What is the default field size of \"AutoNumber\" data type?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which view is used to modify a record in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "List the modes of operations for opening a sequential file.​ f) Write the name of two selection statement used in C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "An intelligent device that has ability to determine the best possible path for data transmission.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Networking": [
+    {
+      "text": "The network security systems that monitor and controls the traffic flow between the Internet and private network.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "Mention differences between client/server architecture and peer to peer architecture of the network.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "What are security threats? Write down any four possible threats to computer security.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is Online Payment? Write any four forms of e-payment in Nepal.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle and calculate its curved surface area and volume of hemisphere. Create a user - defined function to calculate volume of hemisphere and sub procedure to calculate curved surface area. [CSA=2πr², Volume= 2πr³/3] [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.5
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a program in C language to ask a number and check whether it is a multiple of 5 or not. [4] OR Write a program in 'C' language to display the series 2, 8, 18, 32,……… up to 10th terms.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.5
+    }
+  ]
+}

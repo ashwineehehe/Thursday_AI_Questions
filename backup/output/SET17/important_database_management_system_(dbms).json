@@ -1,0 +1,35 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Which data type is used to store date of birth in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two elements of database.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table. [2] DECLARE FUNCTION SQN (N)​ CLS​ S=0​ FOR L=1 TO 3​ read NUM​ S=S+SQN (NUM)​ NEXT L​ PRINT \"Sum of square\"; S​ DATA 1, 4, 5​ END FUNCTION SQN (N)​ SQN = N^2​ END FUNCTION",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    }
+  ]
+}

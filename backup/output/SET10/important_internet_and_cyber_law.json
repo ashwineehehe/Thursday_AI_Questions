@@ -1,0 +1,45 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "List any two main aims of formulating cyber law in Nepal.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two symptoms of computer virus.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A program that can disinfect a file from virus.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Crimes committed using electronic devices and cyber space.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.1
+    }
+  ]
+}

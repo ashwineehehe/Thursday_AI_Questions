@@ -1,0 +1,35 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "What is the name of the sub procedure?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "List the modes of operations for opening a sequential file. f) Write any two looping statements used in C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the appropriate technical term for the following statements. [2×1=2]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

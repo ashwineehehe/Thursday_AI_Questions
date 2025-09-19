@@ -1,0 +1,45 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List the real parameters and formal parameters in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file \"SALARY.DAT\" contains the information, Employee-Code, Employee-Name, Post, Basic-Salary. Write a program to display those records whose Basic-salary is between 25000 to 40000 and Post is 'Manager'. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "What is Internet of Things? Write any two applications areas of virtual reality.​ f) What is database? Give any four examples of DBMS.​ g) What is validation rule? Write any two importance of primary key.​ h) Define record. Write any two advantages of sorting.​ i) List any two major differences between query and report.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which type of cable typically uses RJ-45 connector?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ]
+}

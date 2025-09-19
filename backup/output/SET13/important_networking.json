@@ -1,0 +1,35 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "\"The Internet is called network of networks.\" Justify in your own words.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Mention any two services of the internet.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Network connecting device that boosts the data signals.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Study the following program and answer the given questions: \n21.​List all the parameters used in the program given above.​\n \n22.​List the variable used in the above program.​\n \n \nGroup \"C\"",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET4"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Bhaktapur Municipality SEE Preparation \nExam 2080 \nClass: 10​\n F.M.: 50​\n Subject: Opt. Computer Science​\n Time: 1 hr 30 min \n \nGroup \"A\"",
+      "format": "GENERAL",
+      "section_heading": "GENERAL",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET4"
+      ],
+      "score": 1.25
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "Define fiber optic cable. Write any two connectors used in it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List the local variables used in above program. Group-C (Long Questions-16 Marks)",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List the numerical variables used in above program.​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is E-Government? Write any two website URL of government of Nepal.​ f) What is Database? Give any two examples of DBMS.​ g) What is foreign key? Why is it important to specify primary key in data base?​ h) What is filtering? List any two advantages of data sorting.​ i) Define query. List the types of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the vision of IT Policy of Nepal 2072?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "VOLTE Group-B (Short Questions -24 Marks)",
+      "format": "FULL_FORM",
+      "section_heading": "full forms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "A sequential data file called \"RECORD.DAT\" has stored data under the field heading Roll No., Name, Gender, English, Nepali, Maths and computer. Write a program to display all the information of those students whose gender is 'F' and obtained marks in computer more than",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the default size of number field in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program. Show with dry run in table. [2] DECLARE FUNCTION Interest (p,t,r)​ CLS​ LET p= 500​ LET t=3​ LET r=15​ LET ans =interest(p,t,r)​ PRINT \"The interest=\"; ans​ END FUNCTION Interest (p,t,r)​ I=(ptr)/100​ Interest=I​ END FUNCTION",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write two examples of primary key fields.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "What is meant by password? Write the rules to be followed while creating the password?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the function of SQR in Q-Basic?​ f) Write the name of unary operators used in C-Language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "A main computer in the computer network.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Paying money in E-Commerce using internet.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define digital Citizenship. Write any two elements of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Write the difference between E-Commerce and M-Commerce.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Convert or Calculate as per the instructions. [4×1=4] i) (11101010101)₂= (?)₁₆​ ii) (555)₈=(?)₁₀​ iii) (11110)₂ + (1100)₂-(1000)₂​ iv) (10110)₂÷(101)₂",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a C Program that takes principal, rate and time as input and calculate the simple interest. [4] OR Write a program in C-Language to display first 10 natural numbers.",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in Q-BASIC that asks first term, common Difference and No. of terms of a arithmetic series and calculate its general term and sum. Create a Function procedure to calculate general term and sub procedure to calculate sum. [4]​ [Hint:- tn = a+[(n-1)×d] and Sn = n/2 [2a+(n-1)×d]]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ]
+}

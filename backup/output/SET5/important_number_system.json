@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle and calculate its curved surface area and volume of hemisphere. Create a user - defined function to calculate volume of hemisphere and sub procedure to calculate curved surface area. [CSA=2πr², Volume= 2πr³/3] [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.5
+    }
+  ]
+}

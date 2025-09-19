@@ -1,0 +1,35 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Study the given program and answer the given questions. (2) DECLARE SUB SUM(N) CLS INPUT \"Enter any number\"; N CALL SUM(N) END SUB SUM(N) WHILE N > 0 R = N MOD 10 T = T + R N = N \\ 10 WEND PRINT \"The Sum of individual digit is\"; T END SUB Questions:​",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "A sequential file \"detail.dat\" contains Name, Age and mobile number of few persons. Write a QBASIC program to display the name of those persons who are eligible to cast the vote. [Age must be 18 or above to cast vote]. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write the appropriate technical terms for the following: (2×1=2)",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ]
+}

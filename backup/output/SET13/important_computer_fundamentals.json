@@ -1,0 +1,65 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List the local variables. Group 'C' - 16 Marks",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A data file \"Staff.dat\" has stored records of few employers with EmpID, name, address, post and salary. Write a program to display all the records of the employees whose address is \"Nepal\" and salary is less than 40,000.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "PaaS Group 'B' - 24 Marks",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The use of computer technology to create a simulated environment.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is AI? List any four areas of AI. f) What is DBMS? Name any four examples of database. g) Differentiate between field and record. h) What is the report? Write any two importance of the report. i) Write any four advantages of a computerized database.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two examples of full duplex mode of data transmission.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "What is file mode?​ f) Write any two numeric data type of C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What type table do you create in MS Access to modify table structure?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Which data type is also known as logical data type in MS-Access?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which query is used to make changes in data stored in the database?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program (Show with a dry run table). [3] DECLARE SUB SHOW(A) CLS N = 87 CALL SHOW(N) END SUB SHOW (A). DO B = A MOD 6 + 3 IF B MOD 4 = 0 THEN GOTO AA PRINT B; AA: A = A - 10 LOOP WHILE A >= 50 END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

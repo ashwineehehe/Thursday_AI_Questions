@@ -1,0 +1,55 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "List all the string library function(s) from the program.​",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Read the program given below and answer the questions that follows. [2] DECLARE FUNCTION RETURNS(A$)​ LINE INPUT \"Enter a Sentence\"; S$​ PRINT RETURN$(S$)​ END FUNCTION RETURNS(A$)​ FOR T=1 TO LEN(A$)​ E$= MID$(A$,T,1)​ IF E$ SPACE$(1) THEN​ R$=E$+R$​ END IF​ NEXT T​ RETURN$=R$​ END FUNCTION Questions:",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Using C language, write a program to input three integers then display the highest integer. [4] OR Using C language, write a program to display all even numbers from 20 to 40 along with their sum.",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "What do you mean by digital footprint? List any two ways to maintain our digital reputation.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the technical term for the following statements. [2×1=2]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ]
+}

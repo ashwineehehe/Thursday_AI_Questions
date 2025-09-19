@@ -1,0 +1,45 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "How many parameters are used in the above program?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "List the different library functions used in the program. Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Differentiate between LAN and MAN.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Law that governs the legal issues of cyberspace.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.1
+    }
+  ]
+}

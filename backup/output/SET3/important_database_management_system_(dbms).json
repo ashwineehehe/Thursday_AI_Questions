@@ -1,0 +1,55 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "List any four data types used in MS-Access.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is DBMS? Write any two examples of DBMS software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A … Key uniquely identifies a record. ●​ Primary​ ●​ Foreign​ ●​ Composite​ ●​ None​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "The extension of database file in MS-Access is: ●​ DBF​ ●​ DBM​ ●​ MDB​ ●​ DMB​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "The object of MS-Access that is used to generate hard copy of records: ●​ Query​ ●​ Table​ ●​ Form​ ●​ Report​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.2
+    }
+  ]
+}

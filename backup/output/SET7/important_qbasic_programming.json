@@ -1,0 +1,35 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "How many times does the WHILE ….WEND loop repeat if the value of N is 123? Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the function of INT.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write down the output of the given program. [2] DECLARE SUB Series(A)​ CLS​ A=20​ CALL Series(A)​ END SUB Series(A)​ FOR K=1 to 5​ PRINT A;​ A=A+10​ NEXT K​ END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    }
+  ]
+}

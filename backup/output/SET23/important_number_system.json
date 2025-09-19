@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBasic that asks the radius of a hemisphere and calculate its volume and total surface area. Create a user-defined function First(r) to calculate volume and sub-procedure Second(r) to calculate total surface area of a hemisphere.​ [Hints: TSA = 3πr², V = 2/3πr³]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    }
+  ]
+}

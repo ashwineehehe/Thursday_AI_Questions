@@ -1,0 +1,15 @@
+{
+  "chapter": "Computer Architecture",
+  "top_questions": [
+    {
+      "text": "Write the different architecture of computer network.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.4
+    }
+  ]
+}

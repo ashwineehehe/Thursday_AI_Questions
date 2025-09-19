@@ -1,0 +1,26 @@
+{
+  "QBASIC Programming": [
+    {
+      "text": "Write down the output of the given program: DECLARE SUB SERIES ( ) CALL SERIES END SUB SERIES N$ = \"*\" FOR I = 1 TO 5 FOR J = 1 TO I PRINT N$; NEXT J PRINT NEXT I END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET27"
+      ],
+      "score": 1.4
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a program in C-language that ask length, breadth and height then display volume of box. [Hint: volume=L×B×H] OR Write a program in C-language to display the series 5, 10, 15, 20, 25 up to 10th term.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET27"
+      ],
+      "score": 1.4
+    }
+  ]
+}

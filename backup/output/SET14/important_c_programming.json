@@ -1,0 +1,15 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language that asks a number and check whether it is odd or even. (4) OR Write a program in C language to display the series 1, 1, 2, 3, 5, 8 up to 10th terms. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.5
+    }
+  ]
+}

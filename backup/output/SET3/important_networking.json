@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "Which is not a network topology? ●​ Star​ ●​ Ring​ ●​ Client server​ ●​ Bus​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Rules and format to accept and transfer data in computer network.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.1
+    }
+  ]
+}

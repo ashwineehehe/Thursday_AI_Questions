@@ -1,0 +1,15 @@
+{
+  "chapter": "Computer Architecture",
+  "top_questions": [
+    {
+      "text": "In the above program, how many times does the FOR … NEXT loop execute?​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    }
+  ]
+}

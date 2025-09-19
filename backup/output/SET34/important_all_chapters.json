@@ -1,0 +1,184 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List the parameters used in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Which procedure is used in the above program? Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Name any two unguided transmission media.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is data communication? List two modes of data communication.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The rate at which data is transmitted through a given medium.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "Define e-commerce with its types. f) What is table? Which view is used to modify a table? g) What is Query? List any two importance of it. h) Define Validation rule and Validation text. i) Give any two differences between Form and Report.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in Q-Basic to create a sequential data file named \"record.txt\" and store Roll number, Name, Address and Class of few students.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down any two objects of MS-Access.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table: DECLARE SUB Result (A$) A$=\"Development\" CALL Result (A$) END SUB Result (A$) FOR C=1 TO LEN(A$) STEP 2 X$=MID$(A$,C,1) PRINT X$ NEXT C END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Write a program in C-language that asks a number and check whether the input number is odd or even. OR Write a program in C-language to display the given series 2, 4, 6, 8, 10, ...100",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in Q-BASIC to ask for three numbers from the user and find the average using SUB PROCEDURE and find the sum by using the FUNCTION PROCEDURE.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the function of 'WRITE' statement. f) Write down any two data types used in C-language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "What is Internet of Things (IoT)? Write any two importance of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "An illegal activity done through computer and internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define Antivirus software with two examples.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is software security? Write any two measures of hardware security.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "(111)₂ × (10)₂ – (111)₂",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.5
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List the string library functions used in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define virtual reality. Write any two areas where VR is used.​ f) What is database? Give any two examples of it.​ g) What is validation rule and validation text?​ h) What is a query? What is the purpose of query in MS-Access?​ i) What is report in MS-Access? Why it is important?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give any two advantages of e-mail over traditional mail.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give any two examples of AI.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of online payment.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of social media.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "NIC Group 'B' (24 Marks)",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.1
+    }
+  ]
+}

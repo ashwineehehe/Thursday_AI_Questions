@@ -1,0 +1,228 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List the local variables. Group 'C' - 16 Marks",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A data file \"Staff.dat\" has stored records of few employers with EmpID, name, address, post and salary. Write a program to display all the records of the employees whose address is \"Nepal\" and salary is less than 40,000.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "PaaS Group 'B' - 24 Marks",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The use of computer technology to create a simulated environment.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is AI? List any four areas of AI. f) What is DBMS? Name any four examples of database. g) Differentiate between field and record. h) What is the report? Write any two importance of the report. i) Write any four advantages of a computerized database.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two examples of full duplex mode of data transmission.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "\"The Internet is called network of networks.\" Justify in your own words.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Mention any two services of the internet.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Network connecting device that boosts the data signals.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "Which data type is also known as logical data type in MS-Access?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which query is used to make changes in data stored in the database?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program (Show with a dry run table). [3] DECLARE SUB SHOW(A) CLS N = 87 CALL SHOW(N) END SUB SHOW (A). DO B = A MOD 6 + 3 IF B MOD 4 = 0 THEN GOTO AA PRINT B; AA: A = A - 10 LOOP WHILE A >= 50 END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "What is the name of the sub procedure?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "List the modes of operations for opening a sequential file. f) Write any two looping statements used in C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the appropriate technical term for the following statements. [2×1=2]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define antivirus software with four examples.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is hacking? What is the purpose of hacking?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "What is E-commerce? Write any four Nepali e-commerce websites.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "(10010)₂ × (1110)₂ - (10101)₂ = (?)₂",
+      "format": "CONVERSION",
+      "section_heading": "Convert/calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in QBasic that asks any number and display its square and square root. Create a user-defined function to calculate square root and a sub program to display the square of a number.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a program in C language that asks any integer value and checks whether it is odd or even. [4] OR Write a program in C language to display the first 10 odd numbers.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

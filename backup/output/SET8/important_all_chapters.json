@@ -1,0 +1,190 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "How many parameters are used in the above program?​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to create a sequential data file \"salary.dat\" to store programmer's name, salary and post according to the need of the user. [4]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is computer network? Write any two advantages of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of social media.​ f) What is DBMS? Write any two advantages of it.​ g) What is primary key? Write any two features of it.​ h) Define field and record.​ i) Define form. Write any two uses of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the name of any two search engines.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A system of copying data and information reading in computer into another location.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "Which data type is suitable to store photographs of students in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which view is used to modify a table structure in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Define software security. Write any two protection measures for it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which statement is used to call sub-procedure?​ f) Write any two data types used in C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "A company which provides services of Internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "What is search engine? Write any two popular search engines.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Define e-commerce. Write any two benefits of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "How many times does the statement S=S+I execute in the above program? Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Convert / Calculate as per the instruction. [4×1=4] i) (11111101)₂ = (?)₁₆​ ii) (245)₁₀ = (?)₂​ iii) (1010)₂ × (101)₂ = (?)₂​ iv) (101110)₂ ÷ (110)₂",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program in QBASIC that asks length, breadth of a room and calculate its area and perimeter. Create a user defined function to calculate area and sub program to calculate perimeter. [4]​ [Hint: Area=L×B, P=2(L+B)]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a C program that asks a number and check whether it is negative, positive or zero. [4] OR Write a program in C language to display first 10 odd numbers.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language to ask to enter a number then find out whether it is even or odd. OR Write a C program to display the series 1, 4, 9... up to 10th term.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.4
+    }
+  ]
+}

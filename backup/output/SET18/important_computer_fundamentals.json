@@ -1,0 +1,65 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Define fiber optic cable. Write any two connectors used in it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List the local variables used in above program. Group-C (Long Questions-16 Marks)",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List the numerical variables used in above program.​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is E-Government? Write any two website URL of government of Nepal.​ f) What is Database? Give any two examples of DBMS.​ g) What is foreign key? Why is it important to specify primary key in data base?​ h) What is filtering? List any two advantages of data sorting.​ i) Define query. List the types of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the vision of IT Policy of Nepal 2072?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "VOLTE Group-B (Short Questions -24 Marks)",
+      "format": "FULL_FORM",
+      "section_heading": "full forms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.1
+    }
+  ]
+}

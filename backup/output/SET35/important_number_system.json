@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Convert / calculate as per the instruction: i) (111011 + 1101) - (11011) ii) (11011 × 11) ÷ (110) iii) (235)₁₀ into octal iv) (9A5)₁₆ into binary",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is an actual parameter? f) What are the digits of hexadecimal number system?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    }
+  ]
+}

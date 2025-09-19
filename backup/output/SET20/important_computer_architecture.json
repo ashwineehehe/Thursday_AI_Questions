@@ -1,0 +1,15 @@
+{
+  "chapter": "Computer Architecture",
+  "top_questions": [
+    {
+      "text": "How many times loop T execute, if A$= 'MY PRIDE MY NATION\"? Group C [16 Marks]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    }
+  ]
+}

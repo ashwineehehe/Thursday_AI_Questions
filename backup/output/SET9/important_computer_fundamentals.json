@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List any two string functions used in the above program. Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define cyber law. List any one-one do's and don'ts of cyber ethics.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Differentiate between guided and unguided media.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give any two examples of simplex mode.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to read data from the sequential data file name \"std.dat\" which contains student's name, roll no, and marks of English, Nepali, Maths, and Computer of few students. Display the result with all the information of those students whose marks in computer is more than 40. (4)",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the syntax of ‘KILL’ statement. f) Write any two keywords used in C-language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The recording of interaction with the digital world.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.1
+    }
+  ]
+}

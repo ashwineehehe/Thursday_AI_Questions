@@ -1,0 +1,15 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Do you get any problem in the above program if “KILL” statement is removed?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.55
+    }
+  ]
+}

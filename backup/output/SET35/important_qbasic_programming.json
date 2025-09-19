@@ -1,0 +1,45 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "How many time the loop executes in the above program? Group 'C' Long question Answers: (4×4=16)",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "WAP to find sum of digits of a number using SUB….END SUB. [Hint: 456: 4+5+6=15]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to find greatest number out of three numbers using FUNCTION…END FUNCTION. OR Write a program to count the occurrence of letter 'e' in the supplied string using SUB…END SUB. OR Write a program to count the occurrence of letter 'e’ in the supplied string using SUB...END SUB.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "a) Write a program in QBASIC that asks two numbers to find remainder using SUB….END SUB program and product of two numbers using FUNCTION…END FUNCTION.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    }
+  ]
+}

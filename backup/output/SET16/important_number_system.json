@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(1001 + 110)₂ – (1000)₂​",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program to calculate Area of circle using Function procedure and use SUB procedure to calculate its circumference in Q-Basic. [Hint: A=πr², C=2πr] (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    }
+  ]
+}

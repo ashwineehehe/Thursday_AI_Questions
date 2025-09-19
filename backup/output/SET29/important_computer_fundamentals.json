@@ -1,0 +1,95 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Read the given program and",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is form? Write any two advantages of using form.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to create a sequential data file “Employee.dat” to store employee’s name, address, age, gender and salary. [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages of structured programming.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the names of the functions used in the above program.​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Boot sector virus infects: ●​ System files​ ●​ Master boot record​ ●​ Application software​ ●​ Document file​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Date/Time occupies … Bytes of memory. ●​ 4​ ●​ 2​ ●​ 8​ ●​ 16​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Making extra copy of data and software.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Moral rules to be followed by computer and other professionals.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List all string variables from the program.​",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What type of operator is '+' in above program? Group C [16 Marks]",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file 'STUDENT.DAT' contains the information regarding name, class, section and gender of 50 students. Write a program to add five more records in the same file. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "A program that disinfects other programs.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Name two bounded transmission media.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is e-governance? List the types of e-governance.​ f) What is database? Write any two advantages of electronic data base.​ g) What is field type? List any four field type supported by MS-Access.​ h) Write two differences between filtering and querying.​ i) What is report? Why is it prepared? What are the different parts of a report?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is ring topology? Mention its two advantages.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "ISDN Group B [24 Marks]",
+      "format": "FULL_FORM",
+      "section_heading": "full forms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.1
+    }
+  ]
+}

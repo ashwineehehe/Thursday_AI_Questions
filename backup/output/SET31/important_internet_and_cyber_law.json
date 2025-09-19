@@ -1,0 +1,35 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "Give an example of cyber bullying.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Mention any four software security measures.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is cyber law? What is the cyber law of Nepal called?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.4
+    }
+  ]
+}

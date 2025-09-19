@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C-language to find the greatest number among any two different input numbers. (4) OR Write a program in C-language to display the series 5, 10, 15, 20, ....... up to 15th terms.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The websites that search documents for specified keywords in WWW.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.1
+    }
+  ]
+}

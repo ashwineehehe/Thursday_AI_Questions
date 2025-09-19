@@ -1,0 +1,55 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "Differentiate between star and bus topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "MODEM converts: ●​ Sound into digital​ ●​ Digital signal into sound​ ●​ Both 1 and 2​ ●​ None of the above​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Which device is necessary to operate Internet? ●​ CD-ROM​ ●​ CCTV​ ●​ MODEM​ ●​ ALL​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Which is not an Internet service? ●​ e-mail​ ●​ IRC​ ●​ ISP​ ●​ e-commerce​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "A card used to connect network cable to computer.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.1
+    }
+  ]
+}

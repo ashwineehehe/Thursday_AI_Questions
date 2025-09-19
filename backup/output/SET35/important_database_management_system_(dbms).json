@@ -1,0 +1,15 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Write down the output of the given program. Show with dry run in table. DECLARE SUB PATTERN(S$) CLS B$=\"PROGRAM\" CALL PATTERN(B$) END SUB PATTERN(S$) H=LEN(S$) I=10 FOR J=1 TO H STEP 2 PRINT TAB(I); MID$(S$,J,H) H=H-2 I=I+1 NEXT J END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "What is network topology? Write about star topology with suitable diagram.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two services provided by Internet.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The website that search documents for specified keywords in Internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.1
+    }
+  ]
+}

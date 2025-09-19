@@ -1,0 +1,25 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language to check the students whether they are pass or fail, when the pass mark is 45. [4] OR Write a program in C language to display the series with their sum 40, 41, 42, 43....... 10th terms.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the types of modular programming. f) Write any two names of data types used in C programming language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "A sequential data file called \"STUDENT.DAT\" has stored data under the field heading Registration No., Class, Section, Name, Date of Birth and Gender. Write a program to display all the information of class NINE students whose gender is 'FEMALE'. [4]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "What do you mean by field property in MS Access? List any two field properties with example.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is DBMS? List its two functions.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which data type is used to store paragraph in MS-Access?​ f) What is the use of CALL statement in modular programming?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ]
+}

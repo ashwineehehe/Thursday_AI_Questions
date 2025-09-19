@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "The process of transferring data or files from a local device to a remote system, server, or online platforms.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is form? List its uses.​ f) What is hardware security? List any four methods to protect the data from your computer.​ g) What is bus topology? Mention any two differences between bus and ring topology.​ h) What is B2C? Give any two examples of B2C in Nepal.​ i) What is query? List its types.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in Q-BASIC that asks length and breadth of a room and calculate its area and perimeter. Create a user-defined FUNCTION to calculate area and SUB program to calculate perimeter. [Hint: A=L×B, P=2(L+B)] (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.5
+    }
+  ]
+}

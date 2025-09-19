@@ -1,0 +1,35 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "What is computer network? List any two importance of computer network.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the business done through the internet called?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A company which provides services of Internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.1
+    }
+  ]
+}

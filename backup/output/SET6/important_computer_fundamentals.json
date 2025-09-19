@@ -1,0 +1,85 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Read the following program and",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Rewrite",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Define Virtual Reality. Write its application area.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give the appropriate technical terms of the following. [2×1=2]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List the services of Cloud Computing.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The mode of data communication in which data/information/signals are transmitted in both side simultaneously.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is Transmission Media? Mention its types with at least any two examples of each.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the main objective of the program given above?​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to create a data file \"EMPLOYEE.DAT\" that stores employee information including name, post, salary, and department. [4]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    }
+  ]
+}

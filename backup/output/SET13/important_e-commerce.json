@@ -1,0 +1,15 @@
+{
+  "chapter": "E-Commerce",
+  "top_questions": [
+    {
+      "text": "What is E-commerce? Write any four Nepali e-commerce websites.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET13"
+      ],
+      "score": 1.4
+    }
+  ]
+}

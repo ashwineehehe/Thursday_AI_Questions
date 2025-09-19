@@ -1,0 +1,178 @@
+{
+  "Internet and Cyber Law": [
+    {
+      "text": "Name any two popular antivirus software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is e-banking? Write any two uses of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is hardware security? Write the role of UPS in hardware security.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "Which data type is used to store alphanumeric characters or special symbols in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which view is used to modify a table structure in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Write a program in C language to input a number then check whether the number is fully divisible by 5 or not. (4) OR Write a program in C language to display first 10 odd numbers. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Which statement is used to call sub-procedure?​ f) What is an operator in C language?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "How many parameters are used in the above program?​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to create a sequential data file “salary.dat” to store programmer’s name, salary and post according to the need of the user. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "What is IoT? Write any two importance of it.​ f) Write any two advantages of computerized database.​ g) What is query? Write down any two advantages of Query.​ h) Define data and information.​ i) List the field name from the following table structure: Symbol No. Name Marks 00100200Q Surya Gurung 85 00100201R Birendra Sharma 91",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A malicious program of computer that damages data and software.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Learning through the electronic media.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Networking": [
+    {
+      "text": "Define star topology with figure.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "What is m-commerce? Write any two important services.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "How many times does the statement S=S+I execute in the above program?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.55
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculate its area and volume. Create a user defined function to calculate area and SUB program to calculate volume. [Hint: A=L×B, V=L×B×H] (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.5
+    }
+  ]
+}

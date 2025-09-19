@@ -1,0 +1,45 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Why mobile computing is necessary in present time? Write any two importance of it.​ f) What is database? Give any two examples.​ g) What is primary key? Write any two features of it.​ h) Define field and record.​ i) What type of work is done in MS-Access using form and query object.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any one advantage of Modular Programming.​ f) Which is the structured programming language?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of social media.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A system of copying data and information reading in computer into another location.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.1
+    }
+  ]
+}

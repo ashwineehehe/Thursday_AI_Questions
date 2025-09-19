@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(1010)₂ + (110)₂ – (1111)₂ = (?)₂​",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle and calculate its Total Surface Area and Volume of sphere. Create a user-defined function to calculate volume of sphere and SUB procedure to calculate Total Surface Area. [TSA = 4πr², Volume = 4/3 πr³] (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.5
+    }
+  ]
+}

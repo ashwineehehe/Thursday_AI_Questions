@@ -1,0 +1,25 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a C program to test whether the given number is exactly divisible by 13 or not. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Define local variable.​ f) Write down any two features of C programming language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ]
+}

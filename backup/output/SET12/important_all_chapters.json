@@ -1,0 +1,176 @@
+{
+  "Database Management System (DBMS)": [
+    {
+      "text": "What is tuple in database?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "How many parameter(s) is used in the above program? List them.​",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Write the use of MOD in above program. Group \"C\" [16 Marks]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Give name of any two RDBMS software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List any two threats of using social media.​ f) Define Form and Report.​ g) Write down the advantages of database management system over traditional data storage system.​ h) What is the difference of 'Allow Zero length' and 'Required' field properties of MS-Access?​ i) Define Query. List out its types.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Networking devices used to regenerate the signal and transfer further.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What are the two advantages of ring topology over bus topology?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by Digital Citizenship? List its two advantages.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a C program to test whether the given number is exactly divisible by 13 or not. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Define local variable.​ f) Write down any two features of C programming language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Study the given program and answer the given questions. (2) DECLARE SUB SUM(N) CLS INPUT \"Enter any number\"; N CALL SUM(N) END SUB SUM(N) WHILE N > 0 R = N MOD 10 T = T + R N = N \\ 10 WEND PRINT \"The Sum of individual digit is\"; T END SUB Questions:​",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "A sequential file \"detail.dat\" contains Name, Age and mobile number of few persons. Write a QBASIC program to display the name of those persons who are eligible to cast the vote. [Age must be 18 or above to cast vote]. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write the appropriate technical terms for the following: (2×1=2)",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define hardware security. Write the importance of power protection device to protect the computer.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Define e-commerce. Give example of any two commercial sites in Nepal.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program to calculate area of a circle using SUB… END SUB and perimeter of rectangle using FUNCTION… END FUNCTION. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.5
+    }
+  ]
+}

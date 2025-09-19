@@ -1,0 +1,85 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "What are the library functions used in the above program?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the use of variable 'C' in line 3 in program [i.e. C = count(W$)] Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define digital footprint. How can you manage your digital footprint?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is E-commerce? Write any two advantages of E-commerce.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is browser? Give any two examples of browser.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is contemporary technology? Write any two advantages of cloud computing. f) Differentiate between data and information with examples. g) What is RDBMS? Write any two examples of it. h) What is key in DBMS? Write any two names of keys available in DBMS. i) What is query? Write any two ways of creating query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A device that connects two dissimilar networks.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "The technology to encode file or message.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET25"
+      ],
+      "score": 1.1
+    }
+  ]
+}

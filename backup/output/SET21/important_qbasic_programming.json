@@ -1,0 +1,55 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "What do you mean by software security? Write any two methods to protect the computer software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is global variable in QBASIC?​ f) What is looping?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to ask number and check it is exactly divisible by 4 and 6 using SUB......END SUB. OR Write a program in QBASIC to display sum of first 10 natural numbers using FUNCTION.... END FUNCTION.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to check whether a string is palindrome or not using SUB...END SUB [4]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Making duplicate copy of file for security purpose.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.1
+    }
+  ]
+}

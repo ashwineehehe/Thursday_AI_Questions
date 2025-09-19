@@ -1,0 +1,15 @@
+{
+  "chapter": "E-Commerce",
+  "top_questions": [
+    {
+      "text": "Mention the benefits and limitations of E-commerce.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    }
+  ]
+}

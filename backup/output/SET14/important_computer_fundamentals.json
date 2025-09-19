@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "What is the main objective of the program given above?​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define artificial intelligence (AI). Write any two uses of AI.​ f) What is RDBMS? Write any two examples of DBMS.​ g) What is report in MS-Access? Mention the importance of report in database.​ h) What is data sorting? List any two advantages of using it.​ i) List the field name and records used in the following table structure: Symbol_N o Name Marks 001009010 Hari Thapa 85 00100901Q Binu Sharma 91",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is computer ethics? Write down any two ethics of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is looping?​ f) Write any two features of C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of computer network.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Law that governs the legal issues of cyberspace.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "The smallest unit to represent information on quantum computer.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Define primary key. Write its importance.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Differentiate between database and DBMS.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Memo data type can be indexed.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Primary key does not accept null value.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The extension of database file created by MS-Access is BDF.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is query? Write its importance.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "UTP Group B – DBMS (10 Marks)",
+      "format": "FULL_FORM",
+      "section_heading": "Write full form",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.1
+    }
+  ]
+}

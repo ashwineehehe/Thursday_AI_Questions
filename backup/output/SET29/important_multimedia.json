@@ -1,0 +1,25 @@
+{
+  "chapter": "Multimedia",
+  "top_questions": [
+    {
+      "text": "Write any two software used in multimedia.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Multimedia technology is used in: ●​ Education​ ●​ Business​ ●​ Healthcare​ ●​ All of the above​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    }
+  ]
+}

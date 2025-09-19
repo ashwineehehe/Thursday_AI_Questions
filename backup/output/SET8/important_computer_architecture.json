@@ -1,0 +1,15 @@
+{
+  "chapter": "Computer Architecture",
+  "top_questions": [
+    {
+      "text": "How many times does the statement S=S+I execute in the above program? Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    }
+  ]
+}

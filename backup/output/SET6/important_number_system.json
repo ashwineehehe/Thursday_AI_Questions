@@ -1,0 +1,55 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(111011)₂ × (1010)₂ - (10111)₂​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Calculate/Convert as per the instruction. [4×1=4]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which query is used to modify and calculate data in DBMS?​ f) List any two examples of format specifier (Conversion Character) used in C Language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in C language to input marks of five subjects and calculate the total and average marks. [4] OR Write a program in C language to display the multiplication table of any number input by the user. Write a program in C language to display the multiplication table of any number input by the user.",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in QBASIC that asks for the radius of a circle and calculates its area and circumference. Use a user-defined function to calculate the area and a sub-procedure to calculate the circumference. [4]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    }
+  ]
+}

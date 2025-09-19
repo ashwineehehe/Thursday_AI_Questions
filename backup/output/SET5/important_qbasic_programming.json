@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "List the modes of operations for opening a sequential file.​ f) Write the name of two selection statement used in C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "An intelligent device that has ability to determine the best possible path for data transmission.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.1
+    }
+  ]
+}

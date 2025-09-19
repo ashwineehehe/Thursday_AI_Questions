@@ -1,0 +1,45 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "The responsible and ethical use of technology and digital platform to engage, communicate, and participate in online communities effectively and safely.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What are the different data types available in C?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and two disadvantages of cloud computing.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "CCTV Group B [24 Marks]",
+      "format": "FULL_FORM",
+      "section_heading": "full forms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.1
+    }
+  ]
+}

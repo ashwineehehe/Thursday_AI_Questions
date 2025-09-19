@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "What is topology? Draw the figure of star topology.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The Internet tool which is used to upload/download.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": "Unit 1.1 Networking and Telecommunication",
+  "top_questions": [
+    {
+      "text": "Define ring topology. Write its two advantages.​ f) What is a foreign key? Write two properties of primary key.​ g) Write any two differences between data sorting and data filtering.​ h) Write a difference between database and DBMS. Give one example of manual database.​ i) What is a Form? Write two uses of a form.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    }
+  ]
+}

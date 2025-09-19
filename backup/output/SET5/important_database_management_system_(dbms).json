@@ -1,0 +1,25 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "What is the default field size of \"AutoNumber\" data type?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which view is used to modify a record in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    }
+  ]
+}

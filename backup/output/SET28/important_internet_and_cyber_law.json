@@ -1,0 +1,45 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "Distinguish between email and traditional postal service.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any four ill-effects of computer virus.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any four software security measures.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Program used to detect and eliminate computer virus.",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.1
+    }
+  ]
+}

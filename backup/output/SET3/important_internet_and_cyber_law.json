@@ -1,0 +1,35 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "Write any four preventive measures to protect a computer system from virus infection.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "When was cyber law introduced in Nepal? ●​ 2061 BS​ ●​ 2062 BS​ ●​ 2007 BS​ ●​ 2016 BS​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "A virus that corrupts system files of operating system.",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET3"
+      ],
+      "score": 1.1
+    }
+  ]
+}

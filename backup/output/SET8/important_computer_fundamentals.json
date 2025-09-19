@@ -1,0 +1,65 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "How many parameters are used in the above program?​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to create a sequential data file \"salary.dat\" to store programmer's name, salary and post according to the need of the user. [4]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is computer network? Write any two advantages of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of social media.​ f) What is DBMS? Write any two advantages of it.​ g) What is primary key? Write any two features of it.​ h) Define field and record.​ i) Define form. Write any two uses of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the name of any two search engines.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A system of copying data and information reading in computer into another location.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculate its area and volume. Create a user defined function to calculate area and SUB program to calculate volume. [Hint: A=L×B, V=L×B×H] (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.5
+    }
+  ]
+}

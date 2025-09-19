@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "What is meant by password? Write the rules to be followed while creating the password?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the function of SQR in Q-Basic?​ f) Write the name of unary operators used in C-Language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.4
+    }
+  ]
+}

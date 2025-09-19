@@ -1,0 +1,188 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List the real parameters and formal parameters in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file \"SALARY.DAT\" contains the information, Employee-Code, Employee-Name, Post, Basic-Salary. Write a program to display those records whose Basic-salary is between 25000 to 40000 and Post is 'Manager'. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "What is Internet of Things? Write any two applications areas of virtual reality.​ f) What is database? Give any four examples of DBMS.​ g) What is validation rule? Write any two importance of primary key.​ h) Define record. Write any two advantages of sorting.​ i) List any two major differences between query and report.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which type of cable typically uses RJ-45 connector?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "What is communication media? Draw a well labeled diagram of ring topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the name of the protocol used for sending email messages.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A process of performing a variety of tech-enabled activities via virtual communities and network.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "What data type is commonly represented as Boolean in MS - Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the primary component of a database that organizes data into rows and columns?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a program in C language to ask a number and check whether it is divisible by 10 or not. [4] OR Write a program in 'C' language to display the series : 22,11,34,17,52,26,13,40,20,10.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Which mode is used to read and display data from an existing sequential data file?​ f) How many keywords does the C programming language have?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle and calculate its Total Surface Area and Volume of sphere. Create a sub procedure to calculate volume of sphere and user - defined function to calculate Total Surface Area. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "The conversion of encrypted data into its original form.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define digital citizenship. Write any two examples of cyber bullying.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is information security? Write any four hardware security measures.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Differentiate between E-Commerce and Traditional Commerce.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "What is the name of sub procedure used in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.55
+    }
+  ]
+}

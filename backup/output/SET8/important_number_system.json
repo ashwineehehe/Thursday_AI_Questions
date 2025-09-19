@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Convert / Calculate as per the instruction. [4×1=4] i) (11111101)₂ = (?)₁₆​ ii) (245)₁₀ = (?)₂​ iii) (1010)₂ × (101)₂ = (?)₂​ iv) (101110)₂ ÷ (110)₂",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program in QBASIC that asks length, breadth of a room and calculate its area and perimeter. Create a user defined function to calculate area and sub program to calculate perimeter. [4]​ [Hint: Area=L×B, P=2(L+B)]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    }
+  ]
+}

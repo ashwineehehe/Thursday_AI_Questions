@@ -1,0 +1,15 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a C program that asks a number and check whether it is negative, positive or zero. [4] OR Write a program in C language to display first 10 odd numbers.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET8"
+      ],
+      "score": 1.55
+    }
+  ]
+}

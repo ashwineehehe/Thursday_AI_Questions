@@ -1,0 +1,206 @@
+{
+  "Internet and Cyber Law": [
+    {
+      "text": "Write two examples of cyber-crime.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "The responsible and ethical use of technology and digital platform to engage, communicate, and participate in online communities effectively and safely.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What are the different data types available in C?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and two disadvantages of cloud computing.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "CCTV Group B [24 Marks]",
+      "format": "FULL_FORM",
+      "section_heading": "full forms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "A sequential data file called \"STUDENT.DAT\" has stored data under the field heading Registration No., Class, Section, Name, Date of Birth and Gender. Write a program to display all the information of class NINE students whose gender is 'FEMALE'. [4]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "What do you mean by field property in MS Access? List any two field properties with example.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is DBMS? List its two functions.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which data type is used to store paragraph in MS-Access?​ f) What is the use of CALL statement in modular programming?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "List all the string library function(s) from the program.​",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Read the program given below and answer the questions that follows. [2] DECLARE FUNCTION RETURNS(A$)​ LINE INPUT \"Enter a Sentence\"; S$​ PRINT RETURN$(S$)​ END FUNCTION RETURNS(A$)​ FOR T=1 TO LEN(A$)​ E$= MID$(A$,T,1)​ IF E$ SPACE$(1) THEN​ R$=E$+R$​ END IF​ NEXT T​ RETURN$=R$​ END FUNCTION Questions:",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Using C language, write a program to input three integers then display the highest integer. [4] OR Using C language, write a program to display all even numbers from 20 to 40 along with their sum.",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "What do you mean by digital footprint? List any two ways to maintain our digital reputation.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the technical term for the following statements. [2×1=2]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "The process of transferring data or files from a local device to a remote system, server, or online platforms.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is form? List its uses.​ f) What is hardware security? List any four methods to protect the data from your computer.​ g) What is bus topology? Mention any two differences between bus and ring topology.​ h) What is B2C? Give any two examples of B2C in Nepal.​ i) What is query? List its types.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "How many times loop T execute, if A$= 'MY PRIDE MY NATION\"? Group C [16 Marks]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Convert /Calculate as per the instructions. [4×1=4] i) (111101100)₂ into octal​ ii) (401)₁₆ into Decimal​ iii) (10101)₂-(11011)₂+(10001)₂​ iv) (101101)₂ ÷ (100)₂",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculates its area and volume. Create a user-defined function to calculate area and sub-program to calculate volume. [4] [Hint: Area=L×B, Volume=L×B×H]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    }
+  ]
+}

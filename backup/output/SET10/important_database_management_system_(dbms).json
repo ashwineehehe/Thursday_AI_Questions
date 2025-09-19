@@ -1,0 +1,35 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "A sequential data file called “Record.txt” has stored data under the field heading Roll No., Name, Gender, English, Nepali, Maths and Computer. Write a program to display all the information of those students whose gender is “F” and obtained marks in computer is more than",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Name any two data types that can be defined in MS-ACCESS.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which query is used to view the data stored in database?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    }
+  ]
+}

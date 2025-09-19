@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Employee's name, address, gender and salary are stored in the \"EMP.DAT\" sequential data file. Write a QBASIC program that displays all information about personnel whose salaries exceed 60000. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in 'C' language to find simple interest where user need to input Principle, Rate and Time. [4] (Or) Write a program in 'C' language to display the series with their sum. 1,2,3,4, up to 10th term. Write a program in 'C' language to display the series with their sum. 1,2,3,4, up to 10th term.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.5
+    }
+  ]
+}

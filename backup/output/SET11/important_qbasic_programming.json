@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language to input a number then check whether the number is fully divisible by 5 or not. (4) OR Write a program in C language to display first 10 odd numbers. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Which statement is used to call sub-procedure?​ f) What is an operator in C language?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET11"
+      ],
+      "score": 1.4
+    }
+  ]
+}

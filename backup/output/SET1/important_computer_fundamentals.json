@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Perform the following as indicated. [4×1=4]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "What is the purpose of the above program?",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Write a program in C language to input length of three rods and display whether the triangle can be formed by those rods or not. [4] OR Write a program in C language to declare whether the given number is 'Positive', 'Negative' or 'Zero'.",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "List any two commandments of computer ethics.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List four ways to stay safe on social networks.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is a web browser?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The amount of data transmitted per second through the communication channel.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.1
+    }
+  ]
+}

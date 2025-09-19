@@ -1,0 +1,25 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "What is the maximum length of field name in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which is the logical data type of MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    }
+  ]
+}

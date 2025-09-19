@@ -1,0 +1,45 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "What happens if you remove “UCASES” from the above program?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define virtual reality. Write any two areas where virtual reality is used.​ f) What is DBMS? Write four objects of MS-Access.​ g) What are validation text and validation rule?​ h) What is form? Write any two advantages of it.​ i) What is foreign key? Why is primary key necessary in record?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is modular programming?​ f) Mention any two basic data types of C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is password? Write any two importance of password protection.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "Database Management System (DBMS)": [
+    {
+      "text": "A sequential data file called “Record.dat” has stored data under the field heading Roll No., Name, Gender, English, Nepali, Maths and Computer. Write a program to display all the information of those students whose marks in English is more than 40. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "What is the default size of text field in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which data type is used to store photo in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "What is the main objective of the program given above?​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define artificial intelligence (AI). Write any two uses of AI.​ f) What is RDBMS? Write any two examples of DBMS.​ g) What is report in MS-Access? Mention the importance of report in database.​ h) What is data sorting? List any two advantages of using it.​ i) List the field name and records used in the following table structure: Symbol_N o Name Marks 001009010 Hari Thapa 85 00100901Q Binu Sharma 91",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is computer ethics? Write down any two ethics of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is looping?​ f) Write any two features of C language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of computer network.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Law that governs the legal issues of cyberspace.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "The smallest unit to represent information on quantum computer.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "What is computer security? Write any two hardware security measures.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Give two differences between E-commerce and Traditional Commerce.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Do you get any problem in the above program if “KILL” statement is removed?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.55
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC that will ask the user to input length, breadth and height of a room then use SUB procedure calculate its volume and FUNCTION procedure to calculate its area of four walls. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.5
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a program in C language that asks a number and check whether it is odd or even. (4) OR Write a program in C language to display the series 1, 1, 2, 3, 5, 8 up to 10th terms. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.5
+    }
+  ]
+}

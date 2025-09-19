@@ -1,0 +1,15 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Write down the output of the given program and show them in dry run table: DECLARE SUB SERIES ( ) CLS CALL SERIES END SUB SERIES ( ) X = 1 Y = 1 FOR P = 1 TO 10 PRINT X; X = X + Y Y = Y + 1 NEXT P END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET22"
+      ],
+      "score": 1.4
+    }
+  ]
+}

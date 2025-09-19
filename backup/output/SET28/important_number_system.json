@@ -1,0 +1,35 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Convert as instructed. [2×1 = 2]​ i. (8797)₁₆ into Decimal​ ii. (753)₈ into Hexadecimal",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Perform the binary calculation. [2×1 = 2]​ i. (1000)₂ – (111)₂​ ii. (1010)₂ ÷ (10)₂",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to calculate the average of three numbers using FUNCTION procedure. [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET28"
+      ],
+      "score": 1.4
+    }
+  ]
+}

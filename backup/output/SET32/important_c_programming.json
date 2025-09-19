@@ -1,0 +1,25 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language to ask a number and check whether it is divisible by 10 or not. [4] OR Write a program in 'C' language to display the series : 22,11,34,17,52,26,13,40,20,10.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Which mode is used to read and display data from an existing sequential data file?​ f) How many keywords does the C programming language have?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ]
+}

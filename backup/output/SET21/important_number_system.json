@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "WAP that asks principal, time and rate of interest and calculate simple interest using SUB.... END SUB and amount using FUNCTION.... END FUNCTION. [Hint: SI=PTR/100, Amount=P+SI] [4]",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET21"
+      ],
+      "score": 1.4
+    }
+  ]
+}

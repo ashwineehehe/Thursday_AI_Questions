@@ -1,0 +1,286 @@
+{
+  "Internet and Cyber Law": [
+    {
+      "text": "Write any four preventive measures to protect a computer system from virus infection.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "When was cyber law introduced in Nepal? ●​ 2061 BS​ ●​ 2062 BS​ ●​ 2007 BS​ ●​ 2016 BS​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "A virus that corrupts system files of operating system.",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Multimedia": [
+    {
+      "text": "Write any two software used in multimedia.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Multimedia technology is used in: ●​ Education​ ●​ Business​ ●​ Healthcare​ ●​ All of the above​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Convert as instructed. [2×1 = 2]​ i. (101)₁₀ into Binary​ ii. (75)₈ into Decimal",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Perform the binary calculation. [2×1 = 2]​ i. (10101)₂ – (1011)₂​ ii. (111)₂ × (11)₂",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to declare SUB module to calculate and print the volume of a box. [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program using FUNCTION module to calculate and print the volume of a cylinder.​ Formula: V = πr²h [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "Which is not a network topology? ●​ Star​ ●​ Ring​ ●​ Client server​ ●​ Bus​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Rules and format to accept and transfer data in computer network.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "Read the given program and",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is form? Write any two advantages of using form.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to create a sequential data file “Employee.dat” to store employee’s name, address, age, gender and salary. [3]",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages of structured programming.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the names of the functions used in the above program.​",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Boot sector virus infects: ●​ System files​ ●​ Master boot record​ ●​ Application software​ ●​ Document file​",
+      "format": "MCQ",
+      "section_heading": "Choose",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Date/Time occupies … Bytes of memory. ●​ 4​ ●​ 2​ ●​ 8​ ●​ 16​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "Making extra copy of data and software.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Moral rules to be followed by computer and other professionals.​",
+      "format": "TECH_TERM",
+      "section_heading": "Give appropriate technical terms",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "List any four data types used in MS-Access.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is DBMS? Write any two examples of DBMS software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A … Key uniquely identifies a record. ●​ Primary​ ●​ Foreign​ ●​ Composite​ ●​ None​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "The extension of database file in MS-Access is: ●​ DBF​ ●​ DBM​ ●​ MDB​ ●​ DMB​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    },
+    {
+      "text": "The object of MS-Access that is used to generate hard copy of records: ●​ Query​ ●​ Table​ ●​ Form​ ●​ Report​",
+      "format": "MCQ",
+      "section_heading": "Select the correct answer",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.2
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "List out the mathematical (library) function used in the above program.",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the function of the following statements: FILES, KILL",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET29"
+      ],
+      "score": 1.4
+    }
+  ]
+}

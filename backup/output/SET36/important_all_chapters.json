@@ -1,0 +1,196 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List out the variables used in the above program. Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to create a sequential data file \"student.dat\" to store 10 students name and obtain marks in four different subjects. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Define Bus topology? Write any two advantages of Bus topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give the name of any two unguided transmission media.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is Backup? How it helps to secure data?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is cyber ethics? Write any two commandments for using computer.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is social media? Write any one reason why it is popular now days.​ f) Define DBMS with any two examples of it.​ g) What is primary key? List any two advantages of it.​ h) What is query? List two types of it.​ i) Define report and mention any two uses of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two benefits of e-governance service.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Data transmission in only one direction.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC that asks radius and height of a cylinder. Create a User Defined Function to calculate total surface area and a Sub Program to calculate the volume of a cylinder. [4]​ [Hint: TSA=2πr (r+h) and Volume = πr²h]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Which type of query do you use to calculate the total marks of students from table in MS Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "List the different types of procedures in Qbasic.​ f) Which format specifier do you use in C language for 'int' data type?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the maximum length of the field name in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table. [2] DECLARE FUNCTION Series (N)​ CLS​ A=2​ PRINT \"Sum of the series\"; Series (A)​ END FUNCTION Series (N)​ Sum=0​ FOR J = 1 TO 4​ Sum=Sum + N​ N=N+3​ NEXT J​ Series= Sum​ END FUNCTION",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "Digital trails created while using internet.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.1
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Define e-commerce? Write any two names of Nepali e-commerce sites.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "Which statement should be added in the main module to execute the program?​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.55
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Write a program in C language that asks for an integer value and checks whether it is divisible by 7 or not. [4] OR Write a program in C language to display the series with their sum 1, 4, 9, 16.... up to 10th term.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.5
+    }
+  ]
+}

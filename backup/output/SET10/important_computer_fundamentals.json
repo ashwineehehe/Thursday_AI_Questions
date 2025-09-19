@@ -1,0 +1,65 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List all the numerical variables used in the program above.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "List the local variables used in the program above.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "List any two-two advantages and disadvantages of cloud computing.​ f) What is table? Write any two importance of it.​ g) What is data redundancy? How can it be reduced in database?​ h) While designing table structure which data types are suitable to store information about teacher’s name, address, salary, and date of birth.​ i) Differentiate between select query and action query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two advantages and disadvantages of e-commerce.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two popular search engines.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down one difference between function and sub procedure.​ f) Write any two advantages of Structured programming.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET10"
+      ],
+      "score": 1.4
+    }
+  ]
+}

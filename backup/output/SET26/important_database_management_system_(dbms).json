@@ -1,0 +1,45 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "Define cloud computing with example. f) Differentiate between Database and DBMS. g) What is primary key? Write its importance. h) What is data type? List any two data types of MS-Access. i) Why update query is necessary in Database system? Give reason.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "List any two objects of MS-Access.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which data types are used to store graphics and numeric characters in MS-Access?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program. Show with dry run in table. [3] DECLARE SUB show ( ) CLS CALL show END SUB show FOR I = 1 TO 7 STEP 3 S = S + I ^ 3 NEXT I PRINT S END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    }
+  ]
+}

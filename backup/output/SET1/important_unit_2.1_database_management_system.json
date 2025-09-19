@@ -1,0 +1,35 @@
+{
+  "chapter": "Unit 2.1 Database Management System",
+  "top_questions": [
+    {
+      "text": "A sequential data file, \"record.dat.\" contains several records with data items name, address, age, and phone number. Write a program to display the records of students whose age is greater than or equal to 18. [4]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Which data type is used in MS-Access to store address of a person?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given programs. Show with dry run in a table. [2] DECLARE SUB Display(S$)​ CLS​ S$=\"TOEPOHSDRA\"​ CALL Display (S$)​ END SUB Display(S$)​ LET I=48​ FOR C=1 TO 4​ P=I MOD 7​ R$=R$+ MID$(S$, P, 1)​ I=I-1​ NEXT C​ PRINT R$​ END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    }
+  ]
+}

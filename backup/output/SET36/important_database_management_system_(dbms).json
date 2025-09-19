@@ -1,0 +1,35 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "List the different types of procedures in Qbasic.​ f) Which format specifier do you use in C language for 'int' data type?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the maximum length of the field name in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table. [2] DECLARE FUNCTION Series (N)​ CLS​ A=2​ PRINT \"Sum of the series\"; Series (A)​ END FUNCTION Series (N)​ Sum=0​ FOR J = 1 TO 4​ Sum=Sum + N​ N=N+3​ NEXT J​ Series= Sum​ END FUNCTION",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    }
+  ]
+}

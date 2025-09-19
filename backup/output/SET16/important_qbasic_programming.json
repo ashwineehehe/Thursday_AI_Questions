@@ -1,0 +1,35 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write the use of statement “INPUT #1, N$, A$, S” in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program in C language to input a number and then check whether the number is positive, negative or zero number. (4) OR Write a program in C language to display the series with their sum 1, 2, 3, 4, … up to 10th terms. (4) OR Write a program in C language to display the series with their sum 1, 2, 3, 4, ... up to 10th terms. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program to create a sequential data file named “Employee.dat” to store Name, Post, Address and Salary for the number of employees. The program should terminate on user’s choice. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET16"
+      ],
+      "score": 1.5
+    }
+  ]
+}

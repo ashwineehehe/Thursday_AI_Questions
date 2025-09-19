@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC to define a function procedure to display the cube root of an integer supplied by the user. Use sub procedure module to calculate and print the difference between cube root and square root the same integer. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET31"
+      ],
+      "score": 1.5
+    }
+  ]
+}

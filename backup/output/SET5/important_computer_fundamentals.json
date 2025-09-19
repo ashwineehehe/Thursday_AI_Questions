@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List the real parameter and formal parameter in the program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the names of two built in functions used in the program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "A sequential data file called \"rec.dat\" has several records having fields name, roll and class. Write a program to copy all the records of class 10 into a newly created file \"new.dat\". [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "How can public get benefited from the e-governance services?​ f) What is MS-Access? Give any two examples of DBMS.​ g) What is foreign key? Why is it important to specify primary key in database?​ h) What is filtering. List any two advantages of sorting.​ i) Differentiate between Select query and Action query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is a digital footprint? Share your thoughts about cyberbullying.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the vision of IT Policy of Nepal 2072?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which device is used to connect PC with telephone line?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET5"
+      ],
+      "score": 1.4
+    }
+  ]
+}

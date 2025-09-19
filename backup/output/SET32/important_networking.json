@@ -1,0 +1,35 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "What is communication media? Draw a well labeled diagram of ring topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the name of the protocol used for sending email messages.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A process of performing a variety of tech-enabled activities via virtual communities and network.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.1
+    }
+  ]
+}

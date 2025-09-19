@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC that ask to enter three different numbers then find out Product and Average. Create a user defined function PROD( ) to calculate product and sub procedure AVG( ) to calculate average.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET19"
+      ],
+      "score": 1.4
+    }
+  ]
+}

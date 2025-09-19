@@ -1,0 +1,55 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List the parameters used in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Which procedure is used in the above program? Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Name any two unguided transmission media.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is data communication? List two modes of data communication.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The rate at which data is transmitted through a given medium.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.1
+    }
+  ]
+}

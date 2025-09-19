@@ -1,0 +1,15 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "A person who breaks computer security and uses a computer and file present in it.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Database Management System (DBMS)": [
+    {
+      "text": "A sequential data file called \"Record.dat\" has stored data under the field headings: Roll No., Name, Gender, English, Nepali, Maths and Computer. Write a program to display all the information of those students whose marks in English is more than 40. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "What is the default size of text field in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which data type is used to store photo in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "Define virtual reality. Write any two areas where virtual reality is used.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is looping?​ f) List any two data types used in C-programming language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is password? Write any two importance of password protection.​ f) What is DBMS? Write four objects of MS-Access.​ g) What are validation text and validation rule?​ h) What is form? Write any two advantages of it.​ i) What is record? Why is primary key necessary in record?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Learning through the electronic media.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define cyber law and cyber crime.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is antivirus software? Name any two popular antivirus software.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A program that can disinfect a file from virus​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Networking": [
+    {
+      "text": "What is network topology? List any two types of network topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "How many times does the WHILE ….WEND loop repeat if the value of N is 123? Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the function of INT.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write down the output of the given program. [2] DECLARE SUB Series(A)​ CLS​ A=20​ CALL Series(A)​ END SUB Series(A)​ FOR K=1 to 5​ PRINT A;​ A=A+10​ NEXT K​ END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "(1001 + 110)₂ - (1000)₂​",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle to calculate its area and circumference. Create a user defined function to calculate area and sub program to calculate circumference. [4]​ [Hint: A= πr², C= 2πr]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    }
+  ],
+  "C Programming": [
+    {
+      "text": "Write a program in C language that asks any two numbers and displays the greatest among them. [4] OR Write a program in C-Language to display the series with their sum. 1,2,3,4….upto 10th terms.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    }
+  ]
+}

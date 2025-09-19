@@ -1,0 +1,75 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "A sequential data file called \"Marks.dat\" contains Students name, address, Rollno, English, Nepali and Computer fields. Write a program to display all the contents of the data file. [4]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is the name of the functions used in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define Artificial intelligence. Write any two areas where artificial intelligence is used.​ f) What is Computerized database? Write any two benefits of it.​ g) What is table in DBMS? Write method to Construct table.​ h) What is Primary key? Write two advantages of it.​ i) Write any two difference between field name and record.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is Digital Footprint? Write any two importance of it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is firewall in Computer? Write two major uses of IT policy.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two examples of IOT.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The smallest unit to represent information on quantum Computer.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "What is Internet of Things (IoT)? Write any two importance of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "An illegal activity done through computer and internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.1
+    }
+  ]
+}

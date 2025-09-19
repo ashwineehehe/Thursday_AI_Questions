@@ -1,0 +1,186 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List any two string functions used in the above program. Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define cyber law. List any one-one do's and don'ts of cyber ethics.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Differentiate between guided and unguided media.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give any two examples of simplex mode.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program to read data from the sequential data file name \"std.dat\" which contains student's name, roll no, and marks of English, Nepali, Maths, and Computer of few students. Display the result with all the information of those students whose marks in computer is more than 40. (4)",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the syntax of ‘KILL’ statement. f) Write any two keywords used in C-language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The recording of interaction with the digital world.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "What is e-governance? Provide any two examples of e-governance services that exist in Nepal. f) What is database? Name any two data types used in MS-Access. g) Write the difference between field and record. (Any two) h) Define a report. Why is it necessary to create a report in DBMS? i) What is query? Mention the different types of Action query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the maximum character you can use for creating a field name in MS-Access?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two methods of creating table in MS-Access.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table: (2) DECLARE SUB Display (T$) T$=\"COMPUTER\" CALL Display (T$) END SUB Display (T$) FOR C = 1 TO LEN (T$) STEP 2 D$=MID$ (T$,C,1) PRINT D$; NEXT C END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Write a program in C-language to find the greatest number among any two different input numbers. (4) OR Write a program in C-language to display the series 5, 10, 15, 20, ....... up to 15th terms.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The websites that search documents for specified keywords in WWW.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "Define Antivirus software with two examples.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "Why is e-commerce more popular than traditional commerce nowadays? Give any two reasons.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "Write down the missing statement in the main module to execute the program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.55
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculate its perimeter and volume. Create a Function procedure to calculate perimeter and Sub procedure to calculate the volume. [HINT: Volume = L×B×H and perimeter = 2(L + B)] (4)",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ]
+}

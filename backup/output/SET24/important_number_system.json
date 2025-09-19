@@ -1,0 +1,35 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "(10101)₂ × (11)₂ - (1110)₂",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Calculate or convert as per the instructions. [4×1=4]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program in QBasic to input a radius, create a user defined function to calculate the volume of hemisphere and total surface area (TSA) of the sphere using sub procedure.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ]
+}

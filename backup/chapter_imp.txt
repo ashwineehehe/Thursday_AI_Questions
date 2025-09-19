@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+import json
+from pathlib import Path
+
+# ============== CONFIG ==============
+OUTPUT_ROOT = Path("./output")             # contains SET1..SET36
+CHAPTER     = "Unit 3.1 Programming in QBASIC"
+TOP_N       = 12
+# ====================================
+
+def main():
+    all_items=[]
+    for sdir in sorted(OUTPUT_ROOT.glob("SET*")):
+        f=sdir/"important_all_chapters.json"
+        if not f.exists(): continue
+        data=json.loads(f.read_text(encoding="utf-8"))
+        for q in data.get(CHAPTER,[])[:TOP_N]:
+            q["_set"]=sdir.name
+            all_items.append(q)
+
+    if not all_items:
+        print(f"No questions found for {CHAPTER}")
+        return
+
+    print(f"\nImportant Questions for {CHAPTER}\n")
+    for i,q in enumerate(all_items,1):
+        print(f"{i}. {q['text']}  — from {q['_set']}")
+
+if __name__=="__main__":
+    main()

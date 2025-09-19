@@ -1,0 +1,196 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "List any two library functions used in the above program.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the use of variable 'C' in line 3 [i.e. C = Count (R$)] given in the above program. Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Define Artificial Intelligence with examples.​ f) List any four features of MS-Access.​ g) What is Primary Key? Give any two benefits of it.​ h) Give the differences between the Select Query and Action Query.​ i) Identify a record and field from the following table structure: Symbol No. Name Marks 00100202S Aarambha Shrestha 91 00100203T Suhisha Rayamajhi 99",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is modular programming?​ f) Write any two features of C- language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is the business done through the mobile?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any four commandments of computer ethics.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "A secret group of characters used to protect computer system from unauthorized users.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "An artificial environment created by a computer system that appears real.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "Which data type is used to store date of birth in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two elements of database.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write down the output of the given program and show them in dry run table. [2] DECLARE FUNCTION SQN (N)​ CLS​ S=0​ FOR L=1 TO 3​ read NUM​ S=S+SQN (NUM)​ NEXT L​ PRINT \"Sum of square\"; S​ DATA 1, 4, 5​ END FUNCTION SQN (N)​ SQN = N^2​ END FUNCTION",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "Define network topology. Sketch a drawing of star topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "What are the computer security threats? Mention any two measures to protect from security threats.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    }
+  ],
+  "E-Commerce": [
+    {
+      "text": "What is E-commerce? List any two E-commerce companies in Nepal.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "(101)₂ × (101)₂ = (?)₂​",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculate its area and volume. Create a User Defined Function to calculate Area and Sub Program to calculate the Volume. [4]​ [Hint: Area = L×B and Volume = L×B×H]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.5
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "Employee's name, address, gender and salary are stored in the \"EMP.DAT\" sequential data file. Write a QBASIC program that displays all information about personnel whose salaries exceed 60000. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Write a program in 'C' language to find simple interest where user need to input Principle, Rate and Time. [4] (Or) Write a program in 'C' language to display the series with their sum. 1,2,3,4, up to 10th term. Write a program in 'C' language to display the series with their sum. 1,2,3,4, up to 10th term.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET17"
+      ],
+      "score": 1.5
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": "C Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C language that asks any two numbers and displays the greatest among them. [4] OR Write a program in C-Language to display the series with their sum. 1,2,3,4….upto 10th terms.",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET7"
+      ],
+      "score": 1.5
+    }
+  ]
+}

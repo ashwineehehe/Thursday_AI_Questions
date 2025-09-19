@@ -1,0 +1,45 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "Classify computer network on the basis of geographical location and explain it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write about bus topology with suitable diagram.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any four services of internet.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Transferring illegal items through the internet that is banned in some locations.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.1
+    }
+  ]
+}

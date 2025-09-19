@@ -1,0 +1,85 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "How many parameters are used in the above program?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "List the different library functions used in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "1100 × 100 - 101",
+      "format": "CONVERSION",
+      "section_heading": "Convert/calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "List any four areas where AI can help us.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is computer network? Write any two advantages of computer network.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is tuple? f) Write any two data types used in C-language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in C language to enter a number and find out whether it is positive or negative.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the different modes of communication.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    }
+  ]
+}

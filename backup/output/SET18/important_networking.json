@@ -1,0 +1,25 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "A main computer in the computer network.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Paying money in E-Commerce using internet.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET18"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "Computer Fundamentals": [
+    {
+      "text": "Write down the use of MOD in the program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Differentiate between bounded and unbounded media with examples.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two commandments of cyber ethics.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two opportunities and threats in social media. f) What do you mean by ICT? g) What is the main aim of formulating cyber law of Nepal? h) What do you understand by modular programming? State any two advantages of it. i) What is local and global variable in QBASIC?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "Convert / calculate as per the instruction: i) (111011 + 1101) - (11011) ii) (11011 × 11) ÷ (110) iii) (235)₁₀ into octal iv) (9A5)₁₆ into binary",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What is an actual parameter? f) What are the digits of hexadecimal number system?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Networking": [
+    {
+      "text": "Classify computer network on the basis of geographical location and explain it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write about bus topology with suitable diagram.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any four services of internet.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Transferring illegal items through the internet that is banned in some locations.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Database Management System (DBMS)": [
+    {
+      "text": "Write down the output of the given program. Show with dry run in table. DECLARE SUB PATTERN(S$) CLS B$=\"PROGRAM\" CALL PATTERN(B$) END SUB PATTERN(S$) H=LEN(S$) I=10 FOR J=1 TO H STEP 2 PRINT TAB(I); MID$(S$,J,H) H=H-2 I=I+1 NEXT J END SUB",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "How many time the loop executes in the above program? Group 'C' Long question Answers: (4×4=16)",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "WAP to find sum of digits of a number using SUB….END SUB. [Hint: 456: 4+5+6=15]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to find greatest number out of three numbers using FUNCTION…END FUNCTION. OR Write a program to count the occurrence of letter 'e' in the supplied string using SUB…END SUB. OR Write a program to count the occurrence of letter 'e’ in the supplied string using SUB...END SUB.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "a) Write a program in QBASIC that asks two numbers to find remainder using SUB….END SUB program and product of two numbers using FUNCTION…END FUNCTION.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    }
+  ]
+}

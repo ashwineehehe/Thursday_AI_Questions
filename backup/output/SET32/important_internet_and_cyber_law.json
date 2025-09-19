@@ -1,0 +1,25 @@
+{
+  "chapter": "Internet and Cyber Law",
+  "top_questions": [
+    {
+      "text": "Define digital citizenship. Write any two examples of cyber bullying.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is information security? Write any four hardware security measures.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.4
+    }
+  ]
+}

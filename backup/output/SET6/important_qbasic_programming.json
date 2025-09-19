@@ -1,0 +1,25 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Do you get any problem in above program if \"Kill\" statement is removed? Give reason. GROUP-C (Long Questions-16 Marks)",
+      "format": "QA",
+      "section_heading": "answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by Computer Security? Write any four security measures (mechanisms) of Hardware Security.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET6"
+      ],
+      "score": 1.4
+    }
+  ]
+}

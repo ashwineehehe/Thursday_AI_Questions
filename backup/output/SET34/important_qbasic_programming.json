@@ -1,0 +1,35 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write a program in C-language that asks a number and check whether the input number is odd or even. OR Write a program in C-language to display the given series 2, 4, 6, 8, 10, ...100",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a program in Q-BASIC to ask for three numbers from the user and find the average using SUB PROCEDURE and find the sum by using the FUNCTION PROCEDURE.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write the function of 'WRITE' statement. f) Write down any two data types used in C-language.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET34"
+      ],
+      "score": 1.4
+    }
+  ]
+}

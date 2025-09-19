@@ -1,0 +1,45 @@
+{
+  "chapter": "Unit 3.1 Programming in QBASIC",
+  "top_questions": [
+    {
+      "text": "Study the given program and answer the questions that follow. [2] DECLARE FUNCTION Calculate (X,Y)​ CLS​ INPUT \"Enter a multi-digit number\"; N​ LET S = Calculate (N,T)​ PRINT \"The sum =\"; S​ END FUNCTION Calculate (X,Y)​ WHILE X < > 0​ R=X MOD 10​ Y = Y + R​ X=X\\10​ WEND​ Calculate = Y​ END FUNCTION Questions:",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Write a program in QBASIC to find out sum of three numbers using SUB procedure and average of three numbers using FUNCTION procedure. [4]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "What is a global variable?​ f) Which mode is used to add data items into the already existed data file in QBASIC?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The process of making copies of data or data files to use in the event the original data or data files are lost or destroyed.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET1"
+      ],
+      "score": 1.1
+    }
+  ]
+}

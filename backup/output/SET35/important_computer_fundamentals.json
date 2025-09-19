@@ -1,0 +1,45 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "Write down the use of MOD in the program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Differentiate between bounded and unbounded media with examples.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two commandments of cyber ethics.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two opportunities and threats in social media. f) What do you mean by ICT? g) What is the main aim of formulating cyber law of Nepal? h) What do you understand by modular programming? State any two advantages of it. i) What is local and global variable in QBASIC?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET35"
+      ],
+      "score": 1.4
+    }
+  ]
+}

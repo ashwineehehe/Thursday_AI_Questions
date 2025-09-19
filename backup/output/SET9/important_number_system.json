@@ -1,0 +1,15 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculate its perimeter and volume. Create a Function procedure to calculate perimeter and Sub procedure to calculate the volume. [HINT: Volume = L×B×H and perimeter = 2(L + B)] (4)",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET9"
+      ],
+      "score": 1.4
+    }
+  ]
+}

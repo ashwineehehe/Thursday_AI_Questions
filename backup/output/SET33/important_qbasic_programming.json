@@ -1,0 +1,15 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write output of the following program. [2] DECLARE FUNCTION SUM( )​ CLS​ PRINT SUM ( )​ END FUNCTION SUM( )​ FOR I= 2 to 20 STEP 2​ LET S=S+I​ NEXT I​ SUM = S​ END FUNCTION",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET33"
+      ],
+      "score": 1.4
+    }
+  ]
+}

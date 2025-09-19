@@ -1,0 +1,35 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "A sequential data file \"record.dat\" contains the name, address, salary of employees, and displays the record of those whose salary is more than 37000 and whose name ends with \"DHA\".",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by primary key?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is a database? Give example.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Convert /Calculate as per the instructions. [4×1=4] i) (111101100)₂ into octal​ ii) (401)₁₆ into Decimal​ iii) (10101)₂-(11011)₂+(10001)₂​ iv) (101101)₂ ÷ (100)₂",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    },
+    {
+      "text": "Write a program in QBASIC that asks length, breadth and height of room and calculates its area and volume. Create a user-defined function to calculate area and sub-program to calculate volume. [4] [Hint: Area=L×B, Volume=L×B×H]",
+      "format": "PROGRAM_DEBUG",
+      "section_heading": "Re-write",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET20"
+      ],
+      "score": 1.6
+    }
+  ]
+}

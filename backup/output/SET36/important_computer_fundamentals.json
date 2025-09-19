@@ -1,0 +1,95 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "List out the variables used in the above program. Group C",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program to create a sequential data file \"student.dat\" to store 10 students name and obtain marks in four different subjects. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Define Bus topology? Write any two advantages of Bus topology.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Give the name of any two unguided transmission media.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is Backup? How it helps to secure data?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is cyber ethics? Write any two commandments for using computer.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is social media? Write any one reason why it is popular now days.​ f) Define DBMS with any two examples of it.​ g) What is primary key? List any two advantages of it.​ h) What is query? List two types of it.​ i) Define report and mention any two uses of it.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two benefits of e-governance service.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Data transmission in only one direction.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET36"
+      ],
+      "score": 1.1
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "What is tuple in database?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET12"
+      ],
+      "score": 1.4
+    }
+  ]
+}

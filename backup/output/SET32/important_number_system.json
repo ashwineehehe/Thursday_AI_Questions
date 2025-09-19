@@ -1,0 +1,25 @@
+{
+  "chapter": "Number System",
+  "top_questions": [
+    {
+      "text": "Write a program in QBASIC that asks radius of a circle and calculate its Total Surface Area and Volume of sphere. Create a sub procedure to calculate volume of sphere and user - defined function to calculate Total Surface Area. [4]",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "The conversion of encrypted data into its original form.​",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET32"
+      ],
+      "score": 1.1
+    }
+  ]
+}

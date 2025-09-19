@@ -1,0 +1,45 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "How many times the WHILE…..WEND LOOP repeats if the value of N is 123?",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write the function of INT.​",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Students' name, class, section and address are stored in a data file called \"STUDENT.DAT\". Write a program to print all the records of students. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "Define software security. Write any two protection measures for it.​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET15"
+      ],
+      "score": 1.4
+    }
+  ]
+}

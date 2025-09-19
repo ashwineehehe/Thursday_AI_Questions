@@ -1,0 +1,15 @@
+{
+  "chapter": "QBASIC Programming",
+  "top_questions": [
+    {
+      "text": "Write the output of the given program: (Workout with a dry run) \n20.​Program output question with dry run (SUB SERIES).​",
+      "format": "PROGRAM_OUTPUT",
+      "section_heading": "Write the output",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET4"
+      ],
+      "score": 1.55
+    }
+  ]
+}

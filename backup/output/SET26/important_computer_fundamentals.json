@@ -1,0 +1,55 @@
+{
+  "chapter": "Computer Fundamentals",
+  "top_questions": [
+    {
+      "text": "What is E-government? Give any two examples.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is cyber-ethics? List out any two cybercrimes.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which connector is used with coaxial cable?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Why data decryption is necessary?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The protection of computer systems and sensitive information from unauthorized access, theft or damage.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET26"
+      ],
+      "score": 1.1
+    }
+  ]
+}

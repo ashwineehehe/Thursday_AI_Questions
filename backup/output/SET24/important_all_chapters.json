@@ -1,0 +1,194 @@
+{
+  "Database Management System (DBMS)": [
+    {
+      "text": "A sequential data file \"record.dat\" contains the name, address, salary of employees, and displays the record of those whose salary is more than 37000 and whose name ends with \"DHA\".",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by primary key?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is a database? Give example.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Computer Fundamentals": [
+    {
+      "text": "Differentiate between computerized and non-computerized databases.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is AI? Enlist two application areas of AI. f) What is hardware security? Enlist any two measures to protect it. g) What is field property in MS-Access? Enlist any four of them. h) What is Indexing? Why form and report are used in MS-Access? i) What is Query? Write the types of Action Query.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is a firewall? Enlist the types of firewall.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write any two keywords used in C-programming.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "The device that is used to connect two networks with different communication protocols.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.1
+    }
+  ],
+  "QBASIC Programming": [
+    {
+      "text": "How many times the WHILE WEND loop repeats if the value of N is 1234? Group 'C'",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Name the user defined function in the above program.",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "What do you mean by B2C model of e-commerce? f) What is the function of INT() in QBasic programming?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What do you mean by digital signature? Why is it important?",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Write a C program to input a character and check whether it is vowel or consonant. [4] OR Write a program in C language to input a number and check whether it is a palindrome or not.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Internet and Cyber Law": [
+    {
+      "text": "A person who breaks computer security and uses a computer and file present in it.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.1
+    }
+  ],
+  "Computer Architecture": [
+    {
+      "text": "What is computer network architecture? Mention its types.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ],
+  "Number System": [
+    {
+      "text": "(10101)₂ × (11)₂ - (1110)₂",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Calculate or convert as per the instructions. [4×1=4]",
+      "format": "PROGRAM_READ",
+      "section_heading": "Study the following program",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.55
+    },
+    {
+      "text": "Write a program in QBasic to input a radius, create a user defined function to calculate the volume of hemisphere and total surface area (TSA) of the sphere using sub procedure.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET24"
+      ],
+      "score": 1.4
+    }
+  ]
+}

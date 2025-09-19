@@ -1,0 +1,45 @@
+{
+  "chapter": "Networking",
+  "top_questions": [
+    {
+      "text": "List the different LAN topology.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "What is digital footprint? Write any two points to reduce the size of digital footprint while using internet.",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Sending and receiving messages electronically through the Internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.1
+    },
+    {
+      "text": "Services provided by the government to public via electronic media especially using Internet.",
+      "format": "TECH_TERM",
+      "section_heading": "Write appropriate technical term",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET23"
+      ],
+      "score": 1.1
+    }
+  ]
+}

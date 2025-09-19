@@ -1,0 +1,35 @@
+{
+  "chapter": "Database Management System (DBMS)",
+  "top_questions": [
+    {
+      "text": "A sequential data file called “Record.dat” has stored data under the field heading Roll No., Name, Gender, English, Nepali, Maths and Computer. Write a program to display all the information of those students whose marks in English is more than 40. (4)",
+      "format": "CONVERSION",
+      "section_heading": "Convert/Calculate",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.5
+    },
+    {
+      "text": "What is the default size of text field in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    },
+    {
+      "text": "Which data type is used to store photo in MS-Access?​",
+      "format": "QA",
+      "section_heading": "Answer the following",
+      "papers_count": 1,
+      "paper_ids": [
+        "SET14"
+      ],
+      "score": 1.4
+    }
+  ]
+}
