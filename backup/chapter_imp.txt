@@ -2,11 +2,10 @@
 import json
 from pathlib import Path
 
-# ============== CONFIG ==============
+#  CONFIG 
 OUTPUT_ROOT = Path("./output")             # contains SET1..SET36
 CHAPTER     = "Unit 3.1 Programming in QBASIC"
 TOP_N       = 12
-# ====================================
 
 def main():
     all_items=[]

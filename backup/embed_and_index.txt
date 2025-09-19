@@ -7,11 +7,10 @@ import json
 from pathlib import Path
 import faiss, numpy as np, ollama
 
-# ============== CONFIG ==============
+#config
 OUTPUT_DIR = Path("output/SET1")      # must contain questions.jsonl
 INDEX_DIR  = Path("vector_store/SET1")
 EMB_MODEL  = "nomic-embed-text"
-# ====================================
 
 def embed(text: str):
     e = ollama.embeddings(model=EMB_MODEL, prompt=text)["embedding"]
