@@ -1,66 +1,59 @@
 #!/usr/bin/env python3
-import os, re, json, io
+import os, re, json, io, argparse
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, Counter
 from difflib import SequenceMatcher
-import fitz                     # PDF parsing (PyMuPDF)
-from PIL import Image
-import pytesseract              # OCR
-import ollama
 
-# CONFIG 
-PDF_PATH = Path(r"past papers/SET1.pdf")  # <-- ensure exact filename
-OUT_DIR = Path("./output/SET1")                    # <- where JSON will be written
-TOP_N = 12                                # <- top important questions per chapter
+# ---- Optional Ollama (kept OFF by default to avoid RAM issues) ----
+USE_OLLAMA = False           # set True to use Ollama for importance/chapter (needs llama3 or tinyllama)
+OLLAMA_MODEL = "tinyllama"   # lighter than llama3; change if you have RAM
+if USE_OLLAMA:
+    import ollama
 
-# Use your exact book chapter names here (tweak regex as needed)
+# ---- IO CONFIG ----
+# You can pass --pdf and --out on the CLI; these are defaults:
+PDF_PATH= Path(r"past papers/SET1.pdf")
+OUT_DIR = Path("./output/SET1")
+TOP_N = 12
+
+# ---- Chapter hints (regex) ----
 CHAPTER_HINTS = [
     ("Unit 1.1 Networking and Telecommunication",
      r"\b(network|lan|wan|man|topology|star|bus|ring|mesh|protocol|ip\b|tcp|udp|http|https|dns|"
      r"mac address|bandwidth|isp|wi-?fi|wifi|router|switch|hub|ethernet|client|server|peer[- ]?to[- ]?peer|"
      r"modem|gateway|subnet|ip address|telecommunication|telephony|voip)\b"),
-
     ("Unit 1.2 Ethical and Social Issues in ICT",
      r"\b(ethic|ethical|social issue|digital citizenship|digital footprint|privacy|cyber bullying|harassment|"
      r"copyright|plagiarism|fair use|netiquette|online safety|digital reputation)\b"),
-
     ("Unit 1.3 Computer Security",
      r"\b(security|computer security|information security|confidentiality|integrity|availability|cia triad|"
      r"virus|antivirus|malware|spyware|ransomware|phishing|spoofing|firewall|encryption|decryption|"
      r"password policy|two[- ]?factor|2fa|backup|ups|social engineering)\b"),
-
     ("Unit 1.4 E-commerce",
      r"\b(e-?commerce|m-?commerce|online shopping|payment gateway|transaction|shopping cart|"
      r"digital wallet|paypal|khalti|fonepay|esewa|upi|net banking|b2b|b2c|c2c|g2c|invoice|order|delivery|refund)\b"),
-
     ("Unit 1.5 Contemporary Technology",
      r"\b(contemporary technology|ai|artificial intelligence|machine learning|ml\b|deep learning|dl\b|"
      r"iot|internet of things|cloud computing|ar\b|vr\b|virtual reality|augmented reality|blockchain|"
      r"big data|analytics|wearable|drones|3d printing)\b"),
-
     ("Unit 1.6 Number System",
      r"(\([01]+\)₂|\([0-7]+\)₈|\([0-9A-Fa-f]+\)₁₆|base\s*(2|8|10|16)|\b(binary|octal|decimal|hexadecimal|"
      r"conversion|convert|complement|bit|nibble|byte|ascii|bcd)\b)"),
-
     ("Unit 2.1 Database Management System",
      r"\b(dbms|database|table|field|record|tuple|relation|primary key|foreign key|candidate key|"
      r"query|form|report|ms-?access|data type|memo|ole|criteria|sorting|filter|sql|select|update|insert|delete)\b"),
-
     ("Unit 3.1 Programming in QBASIC",
      r"\b(qbasic|q-basic|declare\s+sub|declare\s+function|sub\b|function\b|while\s+wend|for\s+.*\s+next|"
      r"do\s+.*\s+loop|if\s+.*\s+then|elseif|else|end if|input\s?#|print\s?#|open\s+\"|close\s+#|"
      r"line\s+input|write\s+#|put\s+#|get\s+#|eof\(|"
      r"mid\$|left\$|right\$|len\$|ucase\$|lcase\$|instr|val|int\b|sqr\b|rnd\b|"
      r"files\b|kill\b|name\b|shell\b)\b"),
-
     ("Unit 3.2 Modular Programming",
      r"\b(modular programming|module|subroutine|procedure|sub\b|function\b|parameters|arguments|scope|"
      r"local variable|global variable|interface|reuse|reusability|abstraction)\b"),
-
     ("Unit 3.3 File Handling in QBASIC",
      r"\b(file handling|sequential file|random file|binary file|open\s+\"|close\s+#|input\s?#|print\s?#|"
      r"write\s+#|put\s+#|get\s+#|eof\(|field\b|len\b|append\s+as\s+#)\b"),
-
     ("Unit 4.1 Structured Programing in C",
      r"(#include|\bstdio\.h\b|\bconio\.h\b|\bctype\.h\b|\bstring\.h\b|\bmath\.h\b|"
      r"\bint\s+main\b|\bvoid\s+main\b|\bscanf\s*\(|\bprintf\s*\(|\bgets\s*\(|\bputs\s*\(|"
@@ -68,14 +61,12 @@ CHAPTER_HINTS = [
      r"\breturn\b|\bsizeof\b)")
 ]
 
-# Section anchors + question-start patterns
+# ---- Section anchors + patterns ----
 BLOCK_TITLES = re.compile(
     r'(answer the following|choose|select the correct answer|match the following|write full form|'
     r'full forms|give appropriate technical terms|write appropriate technical term|'
     r'convert\/?calculate|re-?write|write the output|study the following program|'
-    r'debug the given program|programming questions?)',
-    re.I
-)
+    r'debug the given program|programming questions?)', re.I)
 QNUM   = re.compile(r'^\s*\d+[\.\)]\s+', re.M)
 SUB    = re.compile(r'^\s*[a-e]\)\s+', re.M)
 ROMAN  = re.compile(r'^\s*\([ivx]+\)\s+', re.M|re.I)
@@ -84,8 +75,7 @@ INLINE_SUB = re.compile(r'(?<!\w)\(([a-z])\)\s+', re.I)
 LEAD_NUM_RE = re.compile(r'^\s*(?:q?\d+[\.\)]|\(\d+\)|\d+\)|[a-e]\)|\([ivx]+\)|[•\-\u2022])\s+', re.M)
 GENERIC_PAT = re.compile(
     r'^(answer the following|write the full form|write appropriate technical term|match the following|choose|select the correct answer|state whether|convert\/?calculate|programming questions?|group\s+[abc])',
-    re.I
-)
+    re.I)
 ONLY_MATHY = re.compile(r'^[\s\(\)\[\]₀-₉0-9xX÷\+\-\*=\?\.]+$')
 MIN_WORDS = 5
 
@@ -108,11 +98,6 @@ def fmt_from_heading(heading: str) -> str:
     if "answer the following" in h: return "QA"
     return "GENERAL"
 
-def ask_ollama_for_chapter(question_text: str) -> str:
-    prompt = f"Which chapter does this question belong to? Options: {', '.join([c for c,_ in CHAPTER_HINTS])}. Question: {question_text}"
-    resp = ollama.chat(model="llama3", messages=[{"role":"user","content":prompt}])
-    return resp["message"]["content"].strip()
-
 def norm_text(s: str) -> str:
     s2 = s.replace("\u00A0"," ").replace("“","\"").replace("”","\"").replace("’","'").replace("‘","'")
     s2 = re.sub(r'\s+', ' ', s2).strip().lower()
@@ -126,62 +111,59 @@ def is_keep_question(text: str) -> bool:
     if len(t.split()) < MIN_WORDS: return False
     return True
 
-def is_important(question_text: str) -> bool:
-    prompt = f"Given the exam trend, is this an IMPORTANT question? Answer only Yes or No.\n\n{question_text}"
-    resp = ollama.chat(model="llama3", messages=[{"role":"user","content":prompt}])
-    return "yes" in resp["message"]["content"].lower()
+def guess_chapter_regex(text: str) -> str:
+    t = text.lower()
+    for chap, pat in CHAPTER_HINTS:
+        if re.search(pat, t):
+            return chap
+    return "Unit 3.1 Programming in QBASIC" if "qbasic" in t else "Unit 4.1 Structured Programing in C" if "#include" in t or "scanf(" in t else "Unit 2.1 Database Management System" if "primary key" in t or "ms-access" in t else "Unit 1.3 Computer Security"
 
-# PDF + OCR
+def ask_ollama_yesno(msg: str) -> bool:
+    if not USE_OLLAMA:
+        return True
+    r = ollama.chat(model=OLLAMA_MODEL, messages=[{"role":"user","content":msg}])
+    return "yes" in r["message"]["content"].lower()
+
+def ask_ollama_chapter(question_text: str) -> str:
+    if not USE_OLLAMA:
+        return guess_chapter_regex(question_text)
+    opts = ", ".join([c for c,_ in CHAPTER_HINTS])
+    prompt = f"Pick one exact chapter from these options:\n{opts}\n\nQuestion:\n{question_text}\n\nAnswer with the exact chapter string only."
+    r = ollama.chat(model=OLLAMA_MODEL, messages=[{"role":"user","content":prompt}])
+    out = r["message"]["content"].strip()
+    return out if any(out.startswith(c.split()[0]) for c,_ in CHAPTER_HINTS) else guess_chapter_regex(question_text)
+
+# -------- PDF + OCR ----------
 def extract_text_with_ocr(pdf_path: Path, ocr_min_chars: int = 120):
-    """
-    Per page: try PyMuPDF text. If too short, rasterize page and OCR with pytesseract.
-    Also OCR large embedded images.
-    Returns a single joined text string.
-    """
     import fitz
     from PIL import Image
     import pytesseract
-
     doc = fitz.open(str(pdf_path))
     page_texts = []
-
     for i in range(doc.page_count):
         page = doc.load_page(i)
-
-        # 1) native text
-        txt = page.get_text("text") or ""
-        txt = txt.strip()
-        got_text = len(txt) >= ocr_min_chars
-
-        if not got_text:
-            # 2) OCR the page rendered as image (300dpi)
+        txt = (page.get_text("text") or "").strip()
+        if len(txt) < ocr_min_chars:
             pix = page.get_pixmap(dpi=300)
             img = Image.open(io.BytesIO(pix.tobytes("png")))
-            ocr_page = pytesseract.image_to_string(img, config="--oem 3 --psm 6") or ""
-            txt = (txt + "\n" + ocr_page).strip()
-
-        # 3) OCR large embedded images too (sometimes tables/diagrams contain text)
+            txt = (txt + "\n" + (pytesseract.image_to_string(img, config="--oem 3 --psm 6") or "")).strip()
         try:
             for xref, *_ in page.get_images(full=True):
-                pix = fitz.Pixmap(doc, xref)
-                if pix.width < 200 or pix.height < 200:
-                    continue
-                img = Image.open(io.BytesIO(pix.tobytes("png")))
-                ocr_img = pytesseract.image_to_string(img, config="--oem 3 --psm 6") or ""
-                if len(ocr_img.strip()) > 10:
-                    txt += "\n" + ocr_img.strip()
+                pm = fitz.Pixmap(doc, xref)
+                if pm.width >= 200 and pm.height >= 200:
+                    img = Image.open(io.BytesIO(pm.tobytes("png")))
+                    o = pytesseract.image_to_string(img, config="--oem 3 --psm 6") or ""
+                    if len(o.strip()) > 10:
+                        txt += "\n" + o.strip()
         except Exception:
             pass
-
-        # light cleanup
         txt = txt.replace("\u00A0"," ")
         txt = re.sub(r'[ \t]+', ' ', txt)
         page_texts.append(txt)
-
     doc.close()
     return "\n".join(page_texts)
 
-# Splitting 
+# -------- splitting ----------
 def split_blocks(text: str):
     matches = list(BLOCK_TITLES.finditer(text))
     if not matches:
@@ -233,7 +215,7 @@ def is_near_dup(a_norm: str, b_norm: str) -> bool:
         return False
     return SequenceMatcher(None, a_norm, b_norm).ratio() >= 0.90
 
-# Per-PDF pipeline 
+# -------- pipeline ----------
 def process_pdf(pdf_path: Path):
     text = extract_text_with_ocr(pdf_path)
     blocks = split_blocks(text)
@@ -243,13 +225,15 @@ def process_pdf(pdf_path: Path):
     for heading, block in blocks:
         fmt = fmt_from_heading(heading)
         for txt in split_questions_in_block(block):
-            if not is_keep_question(txt): 
+            if not is_keep_question(txt):
                 continue
             norm = norm_text(txt)
-            if norm in seen_norm: 
+            if norm in seen_norm:
                 continue
             seen_norm.add(norm)
             qid += 1
+            chapter = ask_ollama_chapter(txt)
+            important = ask_ollama_yesno(f"Is this an IMPORTANT exam question? Answer yes/no.\n\n{txt}")
             questions.append({
                 "id": f"{paper_id}::Q{qid:04d}",
                 "paper_id": paper_id,
@@ -257,11 +241,11 @@ def process_pdf(pdf_path: Path):
                 "format": fmt,
                 "text": txt.strip(),
                 "norm": norm,
-                "chapter": guess_chapter(txt),
+                "chapter": chapter,
+                "important": bool(important),
             })
     return questions
 
-# Rank & Write 
 def rank_important(all_questions, top_n=TOP_N, out_dir=OUT_DIR):
     out_dir.mkdir(parents=True, exist_ok=True)
     by_chap = defaultdict(list)
@@ -272,6 +256,8 @@ def rank_important(all_questions, top_n=TOP_N, out_dir=OUT_DIR):
     for chap, items in by_chap.items():
         canon = []
         for it in items:
+            if not it.get("important", True):   # include all if not using Ollama
+                continue
             placed = False
             for c in canon:
                 if is_near_dup(it["norm"], c["norm"]):
@@ -297,41 +283,36 @@ def rank_important(all_questions, top_n=TOP_N, out_dir=OUT_DIR):
         scored.sort(key=lambda x: (-x["score"], -x["papers_count"], x["format"], x["text"]))
         per_chapter_top[chap] = scored[:top_n]
 
-        safe = chap.lower().replace(" ", "_").replace("/", "_")
-        with open(out_dir / f"important_{safe}.json", "w", encoding="utf-8") as f:
-            json.dump({"chapter": chap, "top_questions": per_chapter_top[chap]}, f, indent=2, ensure_ascii=False)
-
-    with open(out_dir / "important_all_chapters.json", "w", encoding="utf-8") as f:
-        json.dump(per_chapter_top, f, indent=2, ensure_ascii=False)
+    # write files
+    (out_dir / "important_all_chapters.json").write_text(
+        json.dumps(per_chapter_top, indent=2, ensure_ascii=False), encoding="utf-8"
+    )
     return per_chapter_top
 
-# Main 
 def main():
-    if not PDF_PATH.exists():
-        raise SystemExit(f"PDF not found: {PDF_PATH.resolve()}")
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--pdf", type=Path, default=PDF_PATH)
+    ap.add_argument("--out", type=Path, default=OUT_DIR)
+    args = ap.parse_args()
 
-    OUT_DIR.mkdir(parents=True, exist_ok=True)
+    if not args.pdf.exists():
+        raise SystemExit(f"PDF not found: {args.pdf.resolve()}")
 
-    print(f"[parse] {PDF_PATH.name}")
-    try:
-        qs = process_pdf(PDF_PATH)
-        print(f"  -> {len(qs)} atomic questions")
+    args.out.mkdir(parents=True, exist_ok=True)
+    print(f"[parse] {args.pdf.name}")
 
-        # rank top-N per chapter
-        rank_important(qs, top_n=TOP_N, out_dir=OUT_DIR)
+    qs = process_pdf(args.pdf)
+    print(f"[debug] extracted raw: {len(qs)}")
+    print("[debug] by chapter:", Counter(q["chapter"] for q in qs))
 
-        # NEW: dump all extracted questions into JSONL for embedding pipeline
-        questions_out = OUT_DIR / "questions.jsonl"
-        with open(questions_out, "w", encoding="utf-8") as f:
-            for q in qs:
-                f.write(json.dumps(q, ensure_ascii=False) + "\n")
-        print(f"[done] Wrote {questions_out}")
+    # dump all extracted for embedding
+    with (args.out / "questions.jsonl").open("w", encoding="utf-8") as f:
+        for q in qs:
+            f.write(json.dumps(q, ensure_ascii=False) + "\n")
+    print(f"[done] wrote: {args.out / 'questions.jsonl'}")
 
-    except Exception as e:
-        print(f"  !! failed: {e}")
-
-    print(f"[done] Output location: {OUT_DIR.resolve()}")
-
+    rank_important(qs, top_n=TOP_N, out_dir=args.out)
+    print(f"[done] wrote: {args.out / 'important_all_chapters.json'}")
 
 if __name__ == "__main__":
     main()
